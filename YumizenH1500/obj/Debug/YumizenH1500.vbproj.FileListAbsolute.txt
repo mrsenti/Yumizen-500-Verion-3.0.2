@@ -1,0 +1,565 @@
+E:\SBSI\SBIS LIS\LIS Updated\AnalyzerDriver\LIS PRO\Yumizen H1500 Direct\Tester\bin\Debug\Tester.exe.config
+E:\SBSI\SBIS LIS\LIS Updated\AnalyzerDriver\LIS PRO\Yumizen H1500 Direct\Tester\obj\Debug\Tester.exe
+E:\SBSI\SBIS LIS\LIS Updated\AnalyzerDriver\LIS PRO\Yumizen H1500 Direct\Tester\obj\Debug\Tester.xml
+E:\SBSI\SBIS LIS\LIS Updated\AnalyzerDriver\LIS PRO\Yumizen H1500 Direct\Tester\obj\Debug\Tester.pdb
+E:\SBSI\SBIS LIS\LIS Updated\AnalyzerDriver\LIS PRO\Yumizen H1500 Direct\Tester\bin\Debug\YumizenH1500.exe.config
+E:\SBSI\SBIS LIS\LIS Updated\AnalyzerDriver\LIS PRO\Yumizen H1500 Direct\YumizenH1500\bin\Debug\YumizenH1500.exe.config
+E:\SBSI\SBIS LIS\LIS Updated\AnalyzerDriver\LIS PRO\Yumizen H1500 Direct\YumizenH1500\bin\Debug\YumizenH1500.exe
+E:\SBSI\SBIS LIS\LIS Updated\AnalyzerDriver\LIS PRO\Yumizen H1500 Direct\YumizenH1500\bin\Debug\YumizenH1500.pdb
+E:\SBSI\SBIS LIS\LIS Updated\AnalyzerDriver\LIS PRO\Yumizen H1500 Direct\YumizenH1500\bin\Debug\YumizenH1500.xml
+E:\SBSI\SBIS LIS\LIS Updated\AnalyzerDriver\LIS PRO\Yumizen H1500 Direct\YumizenH1500\bin\Debug\DevExpress.Data.v19.1.dll
+E:\SBSI\SBIS LIS\LIS Updated\AnalyzerDriver\LIS PRO\Yumizen H1500 Direct\YumizenH1500\bin\Debug\DevExpress.Printing.v19.1.Core.dll
+E:\SBSI\SBIS LIS\LIS Updated\AnalyzerDriver\LIS PRO\Yumizen H1500 Direct\YumizenH1500\bin\Debug\DevExpress.Sparkline.v19.1.Core.dll
+E:\SBSI\SBIS LIS\LIS Updated\AnalyzerDriver\LIS PRO\Yumizen H1500 Direct\YumizenH1500\bin\Debug\DevExpress.Utils.v19.1.dll
+E:\SBSI\SBIS LIS\LIS Updated\AnalyzerDriver\LIS PRO\Yumizen H1500 Direct\YumizenH1500\bin\Debug\DevExpress.XtraEditors.v19.1.dll
+E:\SBSI\SBIS LIS\LIS Updated\AnalyzerDriver\LIS PRO\Yumizen H1500 Direct\YumizenH1500\bin\Debug\E1394-91.dll
+E:\SBSI\SBIS LIS\LIS Updated\AnalyzerDriver\LIS PRO\Yumizen H1500 Direct\YumizenH1500\bin\Debug\LIS01A2.dll
+E:\SBSI\SBIS LIS\LIS Updated\AnalyzerDriver\LIS PRO\Yumizen H1500 Direct\YumizenH1500\bin\Debug\MySql.Data.dll
+E:\SBSI\SBIS LIS\LIS Updated\AnalyzerDriver\LIS PRO\Yumizen H1500 Direct\YumizenH1500\bin\Debug\PortableSettingsProvider.dll
+E:\SBSI\SBIS LIS\LIS Updated\AnalyzerDriver\LIS PRO\Yumizen H1500 Direct\YumizenH1500\bin\Debug\SimpleTCP.dll
+E:\SBSI\SBIS LIS\LIS Updated\AnalyzerDriver\LIS PRO\Yumizen H1500 Direct\YumizenH1500\bin\Debug\slf4net.dll
+E:\SBSI\SBIS LIS\LIS Updated\AnalyzerDriver\LIS PRO\Yumizen H1500 Direct\YumizenH1500\bin\Debug\TCPIPConnection.dll
+E:\SBSI\SBIS LIS\LIS Updated\AnalyzerDriver\LIS PRO\Yumizen H1500 Direct\YumizenH1500\bin\Debug\DevExpress.Pdf.v19.1.Core.dll
+E:\SBSI\SBIS LIS\LIS Updated\AnalyzerDriver\LIS PRO\Yumizen H1500 Direct\YumizenH1500\bin\Debug\DevExpress.Data.v19.1.xml
+E:\SBSI\SBIS LIS\LIS Updated\AnalyzerDriver\LIS PRO\Yumizen H1500 Direct\YumizenH1500\bin\Debug\DevExpress.Printing.v19.1.Core.xml
+E:\SBSI\SBIS LIS\LIS Updated\AnalyzerDriver\LIS PRO\Yumizen H1500 Direct\YumizenH1500\bin\Debug\DevExpress.Sparkline.v19.1.Core.xml
+E:\SBSI\SBIS LIS\LIS Updated\AnalyzerDriver\LIS PRO\Yumizen H1500 Direct\YumizenH1500\bin\Debug\DevExpress.Utils.v19.1.xml
+E:\SBSI\SBIS LIS\LIS Updated\AnalyzerDriver\LIS PRO\Yumizen H1500 Direct\YumizenH1500\bin\Debug\DevExpress.XtraEditors.v19.1.xml
+E:\SBSI\SBIS LIS\LIS Updated\AnalyzerDriver\LIS PRO\Yumizen H1500 Direct\YumizenH1500\bin\Debug\E1394-91.pdb
+E:\SBSI\SBIS LIS\LIS Updated\AnalyzerDriver\LIS PRO\Yumizen H1500 Direct\YumizenH1500\bin\Debug\LIS01A2.pdb
+E:\SBSI\SBIS LIS\LIS Updated\AnalyzerDriver\LIS PRO\Yumizen H1500 Direct\YumizenH1500\bin\Debug\PortableSettingsProvider.xml
+E:\SBSI\SBIS LIS\LIS Updated\AnalyzerDriver\LIS PRO\Yumizen H1500 Direct\YumizenH1500\bin\Debug\slf4net.pdb
+E:\SBSI\SBIS LIS\LIS Updated\AnalyzerDriver\LIS PRO\Yumizen H1500 Direct\YumizenH1500\bin\Debug\slf4net.xml
+E:\SBSI\SBIS LIS\LIS Updated\AnalyzerDriver\LIS PRO\Yumizen H1500 Direct\YumizenH1500\bin\Debug\TCPIPConnection.pdb
+E:\SBSI\SBIS LIS\LIS Updated\AnalyzerDriver\LIS PRO\Yumizen H1500 Direct\YumizenH1500\bin\Debug\DevExpress.Pdf.v19.1.Core.xml
+E:\SBSI\SBIS LIS\LIS Updated\AnalyzerDriver\LIS PRO\Yumizen H1500 Direct\YumizenH1500\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
+E:\SBSI\SBIS LIS\LIS Updated\AnalyzerDriver\LIS PRO\Yumizen H1500 Direct\YumizenH1500\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
+E:\SBSI\SBIS LIS\LIS Updated\AnalyzerDriver\LIS PRO\Yumizen H1500 Direct\YumizenH1500\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
+E:\SBSI\SBIS LIS\LIS Updated\AnalyzerDriver\LIS PRO\Yumizen H1500 Direct\YumizenH1500\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
+E:\SBSI\SBIS LIS\LIS Updated\AnalyzerDriver\LIS PRO\Yumizen H1500 Direct\YumizenH1500\bin\Debug\de\DevExpress.Printing.v19.1.Core.resources.dll
+E:\SBSI\SBIS LIS\LIS Updated\AnalyzerDriver\LIS PRO\Yumizen H1500 Direct\YumizenH1500\bin\Debug\es\DevExpress.Printing.v19.1.Core.resources.dll
+E:\SBSI\SBIS LIS\LIS Updated\AnalyzerDriver\LIS PRO\Yumizen H1500 Direct\YumizenH1500\bin\Debug\ja\DevExpress.Printing.v19.1.Core.resources.dll
+E:\SBSI\SBIS LIS\LIS Updated\AnalyzerDriver\LIS PRO\Yumizen H1500 Direct\YumizenH1500\bin\Debug\ru\DevExpress.Printing.v19.1.Core.resources.dll
+E:\SBSI\SBIS LIS\LIS Updated\AnalyzerDriver\LIS PRO\Yumizen H1500 Direct\YumizenH1500\bin\Debug\de\DevExpress.Sparkline.v19.1.Core.resources.dll
+E:\SBSI\SBIS LIS\LIS Updated\AnalyzerDriver\LIS PRO\Yumizen H1500 Direct\YumizenH1500\bin\Debug\es\DevExpress.Sparkline.v19.1.Core.resources.dll
+E:\SBSI\SBIS LIS\LIS Updated\AnalyzerDriver\LIS PRO\Yumizen H1500 Direct\YumizenH1500\bin\Debug\ja\DevExpress.Sparkline.v19.1.Core.resources.dll
+E:\SBSI\SBIS LIS\LIS Updated\AnalyzerDriver\LIS PRO\Yumizen H1500 Direct\YumizenH1500\bin\Debug\ru\DevExpress.Sparkline.v19.1.Core.resources.dll
+E:\SBSI\SBIS LIS\LIS Updated\AnalyzerDriver\LIS PRO\Yumizen H1500 Direct\YumizenH1500\bin\Debug\de\DevExpress.Utils.v19.1.resources.dll
+E:\SBSI\SBIS LIS\LIS Updated\AnalyzerDriver\LIS PRO\Yumizen H1500 Direct\YumizenH1500\bin\Debug\es\DevExpress.Utils.v19.1.resources.dll
+E:\SBSI\SBIS LIS\LIS Updated\AnalyzerDriver\LIS PRO\Yumizen H1500 Direct\YumizenH1500\bin\Debug\ja\DevExpress.Utils.v19.1.resources.dll
+E:\SBSI\SBIS LIS\LIS Updated\AnalyzerDriver\LIS PRO\Yumizen H1500 Direct\YumizenH1500\bin\Debug\ru\DevExpress.Utils.v19.1.resources.dll
+E:\SBSI\SBIS LIS\LIS Updated\AnalyzerDriver\LIS PRO\Yumizen H1500 Direct\YumizenH1500\bin\Debug\de\DevExpress.XtraEditors.v19.1.resources.dll
+E:\SBSI\SBIS LIS\LIS Updated\AnalyzerDriver\LIS PRO\Yumizen H1500 Direct\YumizenH1500\bin\Debug\es\DevExpress.XtraEditors.v19.1.resources.dll
+E:\SBSI\SBIS LIS\LIS Updated\AnalyzerDriver\LIS PRO\Yumizen H1500 Direct\YumizenH1500\bin\Debug\ja\DevExpress.XtraEditors.v19.1.resources.dll
+E:\SBSI\SBIS LIS\LIS Updated\AnalyzerDriver\LIS PRO\Yumizen H1500 Direct\YumizenH1500\bin\Debug\ru\DevExpress.XtraEditors.v19.1.resources.dll
+E:\SBSI\SBIS LIS\LIS Updated\AnalyzerDriver\LIS PRO\Yumizen H1500 Direct\YumizenH1500\bin\Debug\de\DevExpress.Pdf.v19.1.Core.resources.dll
+E:\SBSI\SBIS LIS\LIS Updated\AnalyzerDriver\LIS PRO\Yumizen H1500 Direct\YumizenH1500\bin\Debug\es\DevExpress.Pdf.v19.1.Core.resources.dll
+E:\SBSI\SBIS LIS\LIS Updated\AnalyzerDriver\LIS PRO\Yumizen H1500 Direct\YumizenH1500\bin\Debug\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+E:\SBSI\SBIS LIS\LIS Updated\AnalyzerDriver\LIS PRO\Yumizen H1500 Direct\YumizenH1500\bin\Debug\ru\DevExpress.Pdf.v19.1.Core.resources.dll
+E:\SBSI\SBIS LIS\LIS Updated\AnalyzerDriver\LIS PRO\Yumizen H1500 Direct\YumizenH1500\obj\Debug\YumizenH1500.vbprojResolveAssemblyReference.cache
+E:\SBSI\SBIS LIS\LIS Updated\AnalyzerDriver\LIS PRO\Yumizen H1500 Direct\YumizenH1500\obj\Debug\YumizenH1500.frmLogin.resources
+E:\SBSI\SBIS LIS\LIS Updated\AnalyzerDriver\LIS PRO\Yumizen H1500 Direct\YumizenH1500\obj\Debug\YumizenH1500.MainForm.resources
+E:\SBSI\SBIS LIS\LIS Updated\AnalyzerDriver\LIS PRO\Yumizen H1500 Direct\YumizenH1500\obj\Debug\YumizenH1500.Resources.resources
+E:\SBSI\SBIS LIS\LIS Updated\AnalyzerDriver\LIS PRO\Yumizen H1500 Direct\YumizenH1500\obj\Debug\YumizenH1500.vbproj.GenerateResource.Cache
+E:\SBSI\SBIS LIS\LIS Updated\AnalyzerDriver\LIS PRO\Yumizen H1500 Direct\YumizenH1500\obj\Debug\YumizenH1500.exe.licenses
+E:\SBSI\SBIS LIS\LIS Updated\AnalyzerDriver\LIS PRO\Yumizen H1500 Direct\YumizenH1500\obj\Debug\YumizenH1500.exe
+E:\SBSI\SBIS LIS\LIS Updated\AnalyzerDriver\LIS PRO\Yumizen H1500 Direct\YumizenH1500\obj\Debug\YumizenH1500.xml
+E:\SBSI\SBIS LIS\LIS Updated\AnalyzerDriver\LIS PRO\Yumizen H1500 Direct\YumizenH1500\obj\Debug\YumizenH1500.pdb
+C:\Users\admin\Downloads\Driver Software\Driver Software\Yumizen H1500 Direct\YumizenH1500\bin\Debug\YumizenH1500.exe.config
+C:\Users\admin\Downloads\Driver Software\Driver Software\Yumizen H1500 Direct\YumizenH1500\obj\Debug\YumizenH1500.exe
+C:\Users\admin\Downloads\Driver Software\Driver Software\Yumizen H1500 Direct\YumizenH1500\obj\Debug\YumizenH1500.xml
+C:\Users\admin\Downloads\Driver Software\Driver Software\Yumizen H1500 Direct\YumizenH1500\obj\Debug\YumizenH1500.pdb
+C:\Users\admin\Downloads\Driver Software\Driver Software\Yumizen H1500 Direct\YumizenH1500\bin\Debug\YumizenH1500.exe
+C:\Users\admin\Downloads\Driver Software\Driver Software\Yumizen H1500 Direct\YumizenH1500\bin\Debug\YumizenH1500.pdb
+C:\Users\admin\Downloads\Driver Software\Driver Software\Yumizen H1500 Direct\YumizenH1500\bin\Debug\YumizenH1500.xml
+C:\Users\admin\Downloads\Driver Software\Driver Software\Yumizen H1500 Direct\YumizenH1500\bin\Debug\DevExpress.Data.v19.1.dll
+C:\Users\admin\Downloads\Driver Software\Driver Software\Yumizen H1500 Direct\YumizenH1500\bin\Debug\DevExpress.Printing.v19.1.Core.dll
+C:\Users\admin\Downloads\Driver Software\Driver Software\Yumizen H1500 Direct\YumizenH1500\bin\Debug\DevExpress.Sparkline.v19.1.Core.dll
+C:\Users\admin\Downloads\Driver Software\Driver Software\Yumizen H1500 Direct\YumizenH1500\bin\Debug\DevExpress.Utils.v19.1.dll
+C:\Users\admin\Downloads\Driver Software\Driver Software\Yumizen H1500 Direct\YumizenH1500\bin\Debug\DevExpress.XtraEditors.v19.1.dll
+C:\Users\admin\Downloads\Driver Software\Driver Software\Yumizen H1500 Direct\YumizenH1500\bin\Debug\E1394-91.dll
+C:\Users\admin\Downloads\Driver Software\Driver Software\Yumizen H1500 Direct\YumizenH1500\bin\Debug\LIS01A2.dll
+C:\Users\admin\Downloads\Driver Software\Driver Software\Yumizen H1500 Direct\YumizenH1500\bin\Debug\MySql.Data.dll
+C:\Users\admin\Downloads\Driver Software\Driver Software\Yumizen H1500 Direct\YumizenH1500\bin\Debug\PortableSettingsProvider.dll
+C:\Users\admin\Downloads\Driver Software\Driver Software\Yumizen H1500 Direct\YumizenH1500\bin\Debug\SimpleTCP.dll
+C:\Users\admin\Downloads\Driver Software\Driver Software\Yumizen H1500 Direct\YumizenH1500\bin\Debug\slf4net.dll
+C:\Users\admin\Downloads\Driver Software\Driver Software\Yumizen H1500 Direct\YumizenH1500\bin\Debug\TCPIPConnection.dll
+C:\Users\admin\Downloads\Driver Software\Driver Software\Yumizen H1500 Direct\YumizenH1500\bin\Debug\DevExpress.Pdf.v19.1.Core.dll
+C:\Users\admin\Downloads\Driver Software\Driver Software\Yumizen H1500 Direct\YumizenH1500\bin\Debug\DevExpress.Data.v19.1.xml
+C:\Users\admin\Downloads\Driver Software\Driver Software\Yumizen H1500 Direct\YumizenH1500\bin\Debug\DevExpress.Printing.v19.1.Core.xml
+C:\Users\admin\Downloads\Driver Software\Driver Software\Yumizen H1500 Direct\YumizenH1500\bin\Debug\DevExpress.Sparkline.v19.1.Core.xml
+C:\Users\admin\Downloads\Driver Software\Driver Software\Yumizen H1500 Direct\YumizenH1500\bin\Debug\DevExpress.Utils.v19.1.xml
+C:\Users\admin\Downloads\Driver Software\Driver Software\Yumizen H1500 Direct\YumizenH1500\bin\Debug\DevExpress.XtraEditors.v19.1.xml
+C:\Users\admin\Downloads\Driver Software\Driver Software\Yumizen H1500 Direct\YumizenH1500\bin\Debug\E1394-91.pdb
+C:\Users\admin\Downloads\Driver Software\Driver Software\Yumizen H1500 Direct\YumizenH1500\bin\Debug\LIS01A2.pdb
+C:\Users\admin\Downloads\Driver Software\Driver Software\Yumizen H1500 Direct\YumizenH1500\bin\Debug\PortableSettingsProvider.xml
+C:\Users\admin\Downloads\Driver Software\Driver Software\Yumizen H1500 Direct\YumizenH1500\bin\Debug\slf4net.pdb
+C:\Users\admin\Downloads\Driver Software\Driver Software\Yumizen H1500 Direct\YumizenH1500\bin\Debug\slf4net.xml
+C:\Users\admin\Downloads\Driver Software\Driver Software\Yumizen H1500 Direct\YumizenH1500\bin\Debug\TCPIPConnection.pdb
+C:\Users\admin\Downloads\Driver Software\Driver Software\Yumizen H1500 Direct\YumizenH1500\bin\Debug\DevExpress.Pdf.v19.1.Core.xml
+C:\Users\admin\Downloads\Driver Software\Driver Software\Yumizen H1500 Direct\YumizenH1500\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
+C:\Users\admin\Downloads\Driver Software\Driver Software\Yumizen H1500 Direct\YumizenH1500\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
+C:\Users\admin\Downloads\Driver Software\Driver Software\Yumizen H1500 Direct\YumizenH1500\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
+C:\Users\admin\Downloads\Driver Software\Driver Software\Yumizen H1500 Direct\YumizenH1500\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
+C:\Users\admin\Downloads\Driver Software\Driver Software\Yumizen H1500 Direct\YumizenH1500\bin\Debug\de\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\admin\Downloads\Driver Software\Driver Software\Yumizen H1500 Direct\YumizenH1500\bin\Debug\es\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\admin\Downloads\Driver Software\Driver Software\Yumizen H1500 Direct\YumizenH1500\bin\Debug\ja\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\admin\Downloads\Driver Software\Driver Software\Yumizen H1500 Direct\YumizenH1500\bin\Debug\ru\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\admin\Downloads\Driver Software\Driver Software\Yumizen H1500 Direct\YumizenH1500\bin\Debug\de\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\admin\Downloads\Driver Software\Driver Software\Yumizen H1500 Direct\YumizenH1500\bin\Debug\es\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\admin\Downloads\Driver Software\Driver Software\Yumizen H1500 Direct\YumizenH1500\bin\Debug\ja\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\admin\Downloads\Driver Software\Driver Software\Yumizen H1500 Direct\YumizenH1500\bin\Debug\ru\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\admin\Downloads\Driver Software\Driver Software\Yumizen H1500 Direct\YumizenH1500\bin\Debug\de\DevExpress.Utils.v19.1.resources.dll
+C:\Users\admin\Downloads\Driver Software\Driver Software\Yumizen H1500 Direct\YumizenH1500\bin\Debug\es\DevExpress.Utils.v19.1.resources.dll
+C:\Users\admin\Downloads\Driver Software\Driver Software\Yumizen H1500 Direct\YumizenH1500\bin\Debug\ja\DevExpress.Utils.v19.1.resources.dll
+C:\Users\admin\Downloads\Driver Software\Driver Software\Yumizen H1500 Direct\YumizenH1500\bin\Debug\ru\DevExpress.Utils.v19.1.resources.dll
+C:\Users\admin\Downloads\Driver Software\Driver Software\Yumizen H1500 Direct\YumizenH1500\bin\Debug\de\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\admin\Downloads\Driver Software\Driver Software\Yumizen H1500 Direct\YumizenH1500\bin\Debug\es\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\admin\Downloads\Driver Software\Driver Software\Yumizen H1500 Direct\YumizenH1500\bin\Debug\ja\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\admin\Downloads\Driver Software\Driver Software\Yumizen H1500 Direct\YumizenH1500\bin\Debug\ru\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\admin\Downloads\Driver Software\Driver Software\Yumizen H1500 Direct\YumizenH1500\bin\Debug\de\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\admin\Downloads\Driver Software\Driver Software\Yumizen H1500 Direct\YumizenH1500\bin\Debug\es\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\admin\Downloads\Driver Software\Driver Software\Yumizen H1500 Direct\YumizenH1500\bin\Debug\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\admin\Downloads\Driver Software\Driver Software\Yumizen H1500 Direct\YumizenH1500\bin\Debug\ru\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\admin\Downloads\Driver Software\Driver Software\Yumizen H1500 Direct\YumizenH1500\obj\Debug\YumizenH1500.vbprojResolveAssemblyReference.cache
+C:\Users\admin\Downloads\Driver Software\Driver Software\Yumizen H1500 Direct\YumizenH1500\obj\Debug\YumizenH1500.frmLogin.resources
+C:\Users\admin\Downloads\Driver Software\Driver Software\Yumizen H1500 Direct\YumizenH1500\obj\Debug\YumizenH1500.MainForm.resources
+C:\Users\admin\Downloads\Driver Software\Driver Software\Yumizen H1500 Direct\YumizenH1500\obj\Debug\YumizenH1500.Resources.resources
+C:\Users\admin\Downloads\Driver Software\Driver Software\Yumizen H1500 Direct\YumizenH1500\obj\Debug\YumizenH1500.vbproj.GenerateResource.Cache
+C:\Users\admin\Downloads\Driver Software\Driver Software\Yumizen H1500 Direct\YumizenH1500\obj\Debug\YumizenH1500.exe.licenses
+C:\Users\User\Desktop\New folder\Driver With Re-run Activation\Driver With Re-run Activation\Yumizen H1500 Direct\YumizenH1500\bin\Debug\YumizenH1500.exe.config
+C:\Users\User\Desktop\New folder\Driver With Re-run Activation\Driver With Re-run Activation\Yumizen H1500 Direct\YumizenH1500\obj\Debug\YumizenH1500.exe
+C:\Users\User\Desktop\New folder\Driver With Re-run Activation\Driver With Re-run Activation\Yumizen H1500 Direct\YumizenH1500\obj\Debug\YumizenH1500.xml
+C:\Users\User\Desktop\New folder\Driver With Re-run Activation\Driver With Re-run Activation\Yumizen H1500 Direct\YumizenH1500\obj\Debug\YumizenH1500.pdb
+C:\Users\User\Desktop\New folder\Driver With Re-run Activation\Driver With Re-run Activation\Yumizen H1500 Direct\YumizenH1500\bin\Debug\YumizenH1500.exe
+C:\Users\User\Desktop\New folder\Driver With Re-run Activation\Driver With Re-run Activation\Yumizen H1500 Direct\YumizenH1500\bin\Debug\YumizenH1500.pdb
+C:\Users\User\Desktop\New folder\Driver With Re-run Activation\Driver With Re-run Activation\Yumizen H1500 Direct\YumizenH1500\bin\Debug\YumizenH1500.xml
+C:\Users\User\Desktop\New folder\Driver With Re-run Activation\Driver With Re-run Activation\Yumizen H1500 Direct\YumizenH1500\bin\Debug\DevExpress.Data.v19.1.dll
+C:\Users\User\Desktop\New folder\Driver With Re-run Activation\Driver With Re-run Activation\Yumizen H1500 Direct\YumizenH1500\bin\Debug\DevExpress.Printing.v19.1.Core.dll
+C:\Users\User\Desktop\New folder\Driver With Re-run Activation\Driver With Re-run Activation\Yumizen H1500 Direct\YumizenH1500\bin\Debug\DevExpress.Sparkline.v19.1.Core.dll
+C:\Users\User\Desktop\New folder\Driver With Re-run Activation\Driver With Re-run Activation\Yumizen H1500 Direct\YumizenH1500\bin\Debug\DevExpress.Utils.v19.1.dll
+C:\Users\User\Desktop\New folder\Driver With Re-run Activation\Driver With Re-run Activation\Yumizen H1500 Direct\YumizenH1500\bin\Debug\DevExpress.XtraEditors.v19.1.dll
+C:\Users\User\Desktop\New folder\Driver With Re-run Activation\Driver With Re-run Activation\Yumizen H1500 Direct\YumizenH1500\bin\Debug\E1394-91.dll
+C:\Users\User\Desktop\New folder\Driver With Re-run Activation\Driver With Re-run Activation\Yumizen H1500 Direct\YumizenH1500\bin\Debug\LIS01A2.dll
+C:\Users\User\Desktop\New folder\Driver With Re-run Activation\Driver With Re-run Activation\Yumizen H1500 Direct\YumizenH1500\bin\Debug\MySql.Data.dll
+C:\Users\User\Desktop\New folder\Driver With Re-run Activation\Driver With Re-run Activation\Yumizen H1500 Direct\YumizenH1500\bin\Debug\PortableSettingsProvider.dll
+C:\Users\User\Desktop\New folder\Driver With Re-run Activation\Driver With Re-run Activation\Yumizen H1500 Direct\YumizenH1500\bin\Debug\SimpleTCP.dll
+C:\Users\User\Desktop\New folder\Driver With Re-run Activation\Driver With Re-run Activation\Yumizen H1500 Direct\YumizenH1500\bin\Debug\slf4net.dll
+C:\Users\User\Desktop\New folder\Driver With Re-run Activation\Driver With Re-run Activation\Yumizen H1500 Direct\YumizenH1500\bin\Debug\TCPIPConnection.dll
+C:\Users\User\Desktop\New folder\Driver With Re-run Activation\Driver With Re-run Activation\Yumizen H1500 Direct\YumizenH1500\bin\Debug\DevExpress.Pdf.v19.1.Core.dll
+C:\Users\User\Desktop\New folder\Driver With Re-run Activation\Driver With Re-run Activation\Yumizen H1500 Direct\YumizenH1500\bin\Debug\DevExpress.Data.v19.1.xml
+C:\Users\User\Desktop\New folder\Driver With Re-run Activation\Driver With Re-run Activation\Yumizen H1500 Direct\YumizenH1500\bin\Debug\DevExpress.Printing.v19.1.Core.xml
+C:\Users\User\Desktop\New folder\Driver With Re-run Activation\Driver With Re-run Activation\Yumizen H1500 Direct\YumizenH1500\bin\Debug\DevExpress.Sparkline.v19.1.Core.xml
+C:\Users\User\Desktop\New folder\Driver With Re-run Activation\Driver With Re-run Activation\Yumizen H1500 Direct\YumizenH1500\bin\Debug\DevExpress.Utils.v19.1.xml
+C:\Users\User\Desktop\New folder\Driver With Re-run Activation\Driver With Re-run Activation\Yumizen H1500 Direct\YumizenH1500\bin\Debug\DevExpress.XtraEditors.v19.1.xml
+C:\Users\User\Desktop\New folder\Driver With Re-run Activation\Driver With Re-run Activation\Yumizen H1500 Direct\YumizenH1500\bin\Debug\E1394-91.pdb
+C:\Users\User\Desktop\New folder\Driver With Re-run Activation\Driver With Re-run Activation\Yumizen H1500 Direct\YumizenH1500\bin\Debug\LIS01A2.pdb
+C:\Users\User\Desktop\New folder\Driver With Re-run Activation\Driver With Re-run Activation\Yumizen H1500 Direct\YumizenH1500\bin\Debug\PortableSettingsProvider.xml
+C:\Users\User\Desktop\New folder\Driver With Re-run Activation\Driver With Re-run Activation\Yumizen H1500 Direct\YumizenH1500\bin\Debug\slf4net.pdb
+C:\Users\User\Desktop\New folder\Driver With Re-run Activation\Driver With Re-run Activation\Yumizen H1500 Direct\YumizenH1500\bin\Debug\slf4net.xml
+C:\Users\User\Desktop\New folder\Driver With Re-run Activation\Driver With Re-run Activation\Yumizen H1500 Direct\YumizenH1500\bin\Debug\TCPIPConnection.pdb
+C:\Users\User\Desktop\New folder\Driver With Re-run Activation\Driver With Re-run Activation\Yumizen H1500 Direct\YumizenH1500\bin\Debug\DevExpress.Pdf.v19.1.Core.xml
+C:\Users\User\Desktop\New folder\Driver With Re-run Activation\Driver With Re-run Activation\Yumizen H1500 Direct\YumizenH1500\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
+C:\Users\User\Desktop\New folder\Driver With Re-run Activation\Driver With Re-run Activation\Yumizen H1500 Direct\YumizenH1500\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
+C:\Users\User\Desktop\New folder\Driver With Re-run Activation\Driver With Re-run Activation\Yumizen H1500 Direct\YumizenH1500\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
+C:\Users\User\Desktop\New folder\Driver With Re-run Activation\Driver With Re-run Activation\Yumizen H1500 Direct\YumizenH1500\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
+C:\Users\User\Desktop\New folder\Driver With Re-run Activation\Driver With Re-run Activation\Yumizen H1500 Direct\YumizenH1500\bin\Debug\de\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\User\Desktop\New folder\Driver With Re-run Activation\Driver With Re-run Activation\Yumizen H1500 Direct\YumizenH1500\bin\Debug\es\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\User\Desktop\New folder\Driver With Re-run Activation\Driver With Re-run Activation\Yumizen H1500 Direct\YumizenH1500\bin\Debug\ja\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\User\Desktop\New folder\Driver With Re-run Activation\Driver With Re-run Activation\Yumizen H1500 Direct\YumizenH1500\bin\Debug\ru\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\User\Desktop\New folder\Driver With Re-run Activation\Driver With Re-run Activation\Yumizen H1500 Direct\YumizenH1500\bin\Debug\de\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\User\Desktop\New folder\Driver With Re-run Activation\Driver With Re-run Activation\Yumizen H1500 Direct\YumizenH1500\bin\Debug\es\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\User\Desktop\New folder\Driver With Re-run Activation\Driver With Re-run Activation\Yumizen H1500 Direct\YumizenH1500\bin\Debug\ja\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\User\Desktop\New folder\Driver With Re-run Activation\Driver With Re-run Activation\Yumizen H1500 Direct\YumizenH1500\bin\Debug\ru\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\User\Desktop\New folder\Driver With Re-run Activation\Driver With Re-run Activation\Yumizen H1500 Direct\YumizenH1500\bin\Debug\de\DevExpress.Utils.v19.1.resources.dll
+C:\Users\User\Desktop\New folder\Driver With Re-run Activation\Driver With Re-run Activation\Yumizen H1500 Direct\YumizenH1500\bin\Debug\es\DevExpress.Utils.v19.1.resources.dll
+C:\Users\User\Desktop\New folder\Driver With Re-run Activation\Driver With Re-run Activation\Yumizen H1500 Direct\YumizenH1500\bin\Debug\ja\DevExpress.Utils.v19.1.resources.dll
+C:\Users\User\Desktop\New folder\Driver With Re-run Activation\Driver With Re-run Activation\Yumizen H1500 Direct\YumizenH1500\bin\Debug\ru\DevExpress.Utils.v19.1.resources.dll
+C:\Users\User\Desktop\New folder\Driver With Re-run Activation\Driver With Re-run Activation\Yumizen H1500 Direct\YumizenH1500\bin\Debug\de\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\User\Desktop\New folder\Driver With Re-run Activation\Driver With Re-run Activation\Yumizen H1500 Direct\YumizenH1500\bin\Debug\es\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\User\Desktop\New folder\Driver With Re-run Activation\Driver With Re-run Activation\Yumizen H1500 Direct\YumizenH1500\bin\Debug\ja\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\User\Desktop\New folder\Driver With Re-run Activation\Driver With Re-run Activation\Yumizen H1500 Direct\YumizenH1500\bin\Debug\ru\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\User\Desktop\New folder\Driver With Re-run Activation\Driver With Re-run Activation\Yumizen H1500 Direct\YumizenH1500\bin\Debug\de\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\User\Desktop\New folder\Driver With Re-run Activation\Driver With Re-run Activation\Yumizen H1500 Direct\YumizenH1500\bin\Debug\es\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\User\Desktop\New folder\Driver With Re-run Activation\Driver With Re-run Activation\Yumizen H1500 Direct\YumizenH1500\bin\Debug\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\User\Desktop\New folder\Driver With Re-run Activation\Driver With Re-run Activation\Yumizen H1500 Direct\YumizenH1500\bin\Debug\ru\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\User\Desktop\New folder\Driver With Re-run Activation\Driver With Re-run Activation\Yumizen H1500 Direct\YumizenH1500\obj\Debug\YumizenH1500.frmLogin.resources
+C:\Users\User\Desktop\New folder\Driver With Re-run Activation\Driver With Re-run Activation\Yumizen H1500 Direct\YumizenH1500\obj\Debug\YumizenH1500.MainForm.resources
+C:\Users\User\Desktop\New folder\Driver With Re-run Activation\Driver With Re-run Activation\Yumizen H1500 Direct\YumizenH1500\obj\Debug\YumizenH1500.Resources.resources
+C:\Users\User\Desktop\New folder\Driver With Re-run Activation\Driver With Re-run Activation\Yumizen H1500 Direct\YumizenH1500\obj\Debug\YumizenH1500.vbproj.GenerateResource.Cache
+C:\Users\User\Desktop\New folder\Driver With Re-run Activation\Driver With Re-run Activation\Yumizen H1500 Direct\YumizenH1500\obj\Debug\YumizenH1500.exe.licenses
+C:\Users\User\Desktop\New folder\Driver With Re-run Activation\Driver With Re-run Activation\Yumizen H1500 Direct\YumizenH1500\obj\Debug\YumizenH1500.vbprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Files LIS\LIS Gallares\LIS Gallares\New folder\Yumizen H1500 Direct\YumizenH1500\bin\Debug\YumizenH1500.exe.config
+C:\Users\User\Documents\Files LIS\LIS Gallares\LIS Gallares\New folder\Yumizen H1500 Direct\YumizenH1500\bin\Debug\YumizenH1500.exe
+C:\Users\User\Documents\Files LIS\LIS Gallares\LIS Gallares\New folder\Yumizen H1500 Direct\YumizenH1500\bin\Debug\YumizenH1500.pdb
+C:\Users\User\Documents\Files LIS\LIS Gallares\LIS Gallares\New folder\Yumizen H1500 Direct\YumizenH1500\bin\Debug\YumizenH1500.xml
+C:\Users\User\Documents\Files LIS\LIS Gallares\LIS Gallares\New folder\Yumizen H1500 Direct\YumizenH1500\bin\Debug\DevExpress.Data.v19.1.dll
+C:\Users\User\Documents\Files LIS\LIS Gallares\LIS Gallares\New folder\Yumizen H1500 Direct\YumizenH1500\bin\Debug\DevExpress.Printing.v19.1.Core.dll
+C:\Users\User\Documents\Files LIS\LIS Gallares\LIS Gallares\New folder\Yumizen H1500 Direct\YumizenH1500\bin\Debug\DevExpress.Sparkline.v19.1.Core.dll
+C:\Users\User\Documents\Files LIS\LIS Gallares\LIS Gallares\New folder\Yumizen H1500 Direct\YumizenH1500\bin\Debug\DevExpress.Utils.v19.1.dll
+C:\Users\User\Documents\Files LIS\LIS Gallares\LIS Gallares\New folder\Yumizen H1500 Direct\YumizenH1500\bin\Debug\DevExpress.XtraEditors.v19.1.dll
+C:\Users\User\Documents\Files LIS\LIS Gallares\LIS Gallares\New folder\Yumizen H1500 Direct\YumizenH1500\bin\Debug\E1394-91.dll
+C:\Users\User\Documents\Files LIS\LIS Gallares\LIS Gallares\New folder\Yumizen H1500 Direct\YumizenH1500\bin\Debug\LIS01A2.dll
+C:\Users\User\Documents\Files LIS\LIS Gallares\LIS Gallares\New folder\Yumizen H1500 Direct\YumizenH1500\bin\Debug\MySql.Data.dll
+C:\Users\User\Documents\Files LIS\LIS Gallares\LIS Gallares\New folder\Yumizen H1500 Direct\YumizenH1500\bin\Debug\PortableSettingsProvider.dll
+C:\Users\User\Documents\Files LIS\LIS Gallares\LIS Gallares\New folder\Yumizen H1500 Direct\YumizenH1500\bin\Debug\SimpleTCP.dll
+C:\Users\User\Documents\Files LIS\LIS Gallares\LIS Gallares\New folder\Yumizen H1500 Direct\YumizenH1500\bin\Debug\slf4net.dll
+C:\Users\User\Documents\Files LIS\LIS Gallares\LIS Gallares\New folder\Yumizen H1500 Direct\YumizenH1500\bin\Debug\TCPIPConnection.dll
+C:\Users\User\Documents\Files LIS\LIS Gallares\LIS Gallares\New folder\Yumizen H1500 Direct\YumizenH1500\bin\Debug\DevExpress.Pdf.v19.1.Core.dll
+C:\Users\User\Documents\Files LIS\LIS Gallares\LIS Gallares\New folder\Yumizen H1500 Direct\YumizenH1500\bin\Debug\DevExpress.Data.v19.1.xml
+C:\Users\User\Documents\Files LIS\LIS Gallares\LIS Gallares\New folder\Yumizen H1500 Direct\YumizenH1500\bin\Debug\DevExpress.Printing.v19.1.Core.xml
+C:\Users\User\Documents\Files LIS\LIS Gallares\LIS Gallares\New folder\Yumizen H1500 Direct\YumizenH1500\bin\Debug\DevExpress.Sparkline.v19.1.Core.xml
+C:\Users\User\Documents\Files LIS\LIS Gallares\LIS Gallares\New folder\Yumizen H1500 Direct\YumizenH1500\bin\Debug\DevExpress.Utils.v19.1.xml
+C:\Users\User\Documents\Files LIS\LIS Gallares\LIS Gallares\New folder\Yumizen H1500 Direct\YumizenH1500\bin\Debug\DevExpress.XtraEditors.v19.1.xml
+C:\Users\User\Documents\Files LIS\LIS Gallares\LIS Gallares\New folder\Yumizen H1500 Direct\YumizenH1500\bin\Debug\E1394-91.pdb
+C:\Users\User\Documents\Files LIS\LIS Gallares\LIS Gallares\New folder\Yumizen H1500 Direct\YumizenH1500\bin\Debug\LIS01A2.pdb
+C:\Users\User\Documents\Files LIS\LIS Gallares\LIS Gallares\New folder\Yumizen H1500 Direct\YumizenH1500\bin\Debug\PortableSettingsProvider.xml
+C:\Users\User\Documents\Files LIS\LIS Gallares\LIS Gallares\New folder\Yumizen H1500 Direct\YumizenH1500\bin\Debug\slf4net.pdb
+C:\Users\User\Documents\Files LIS\LIS Gallares\LIS Gallares\New folder\Yumizen H1500 Direct\YumizenH1500\bin\Debug\slf4net.xml
+C:\Users\User\Documents\Files LIS\LIS Gallares\LIS Gallares\New folder\Yumizen H1500 Direct\YumizenH1500\bin\Debug\TCPIPConnection.pdb
+C:\Users\User\Documents\Files LIS\LIS Gallares\LIS Gallares\New folder\Yumizen H1500 Direct\YumizenH1500\bin\Debug\DevExpress.Pdf.v19.1.Core.xml
+C:\Users\User\Documents\Files LIS\LIS Gallares\LIS Gallares\New folder\Yumizen H1500 Direct\YumizenH1500\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
+C:\Users\User\Documents\Files LIS\LIS Gallares\LIS Gallares\New folder\Yumizen H1500 Direct\YumizenH1500\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
+C:\Users\User\Documents\Files LIS\LIS Gallares\LIS Gallares\New folder\Yumizen H1500 Direct\YumizenH1500\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
+C:\Users\User\Documents\Files LIS\LIS Gallares\LIS Gallares\New folder\Yumizen H1500 Direct\YumizenH1500\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
+C:\Users\User\Documents\Files LIS\LIS Gallares\LIS Gallares\New folder\Yumizen H1500 Direct\YumizenH1500\bin\Debug\de\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\User\Documents\Files LIS\LIS Gallares\LIS Gallares\New folder\Yumizen H1500 Direct\YumizenH1500\bin\Debug\es\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\User\Documents\Files LIS\LIS Gallares\LIS Gallares\New folder\Yumizen H1500 Direct\YumizenH1500\bin\Debug\ja\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\User\Documents\Files LIS\LIS Gallares\LIS Gallares\New folder\Yumizen H1500 Direct\YumizenH1500\bin\Debug\ru\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\User\Documents\Files LIS\LIS Gallares\LIS Gallares\New folder\Yumizen H1500 Direct\YumizenH1500\bin\Debug\de\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\User\Documents\Files LIS\LIS Gallares\LIS Gallares\New folder\Yumizen H1500 Direct\YumizenH1500\bin\Debug\es\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\User\Documents\Files LIS\LIS Gallares\LIS Gallares\New folder\Yumizen H1500 Direct\YumizenH1500\bin\Debug\ja\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\User\Documents\Files LIS\LIS Gallares\LIS Gallares\New folder\Yumizen H1500 Direct\YumizenH1500\bin\Debug\ru\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\User\Documents\Files LIS\LIS Gallares\LIS Gallares\New folder\Yumizen H1500 Direct\YumizenH1500\bin\Debug\de\DevExpress.Utils.v19.1.resources.dll
+C:\Users\User\Documents\Files LIS\LIS Gallares\LIS Gallares\New folder\Yumizen H1500 Direct\YumizenH1500\bin\Debug\es\DevExpress.Utils.v19.1.resources.dll
+C:\Users\User\Documents\Files LIS\LIS Gallares\LIS Gallares\New folder\Yumizen H1500 Direct\YumizenH1500\bin\Debug\ja\DevExpress.Utils.v19.1.resources.dll
+C:\Users\User\Documents\Files LIS\LIS Gallares\LIS Gallares\New folder\Yumizen H1500 Direct\YumizenH1500\bin\Debug\ru\DevExpress.Utils.v19.1.resources.dll
+C:\Users\User\Documents\Files LIS\LIS Gallares\LIS Gallares\New folder\Yumizen H1500 Direct\YumizenH1500\bin\Debug\de\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\User\Documents\Files LIS\LIS Gallares\LIS Gallares\New folder\Yumizen H1500 Direct\YumizenH1500\bin\Debug\es\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\User\Documents\Files LIS\LIS Gallares\LIS Gallares\New folder\Yumizen H1500 Direct\YumizenH1500\bin\Debug\ja\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\User\Documents\Files LIS\LIS Gallares\LIS Gallares\New folder\Yumizen H1500 Direct\YumizenH1500\bin\Debug\ru\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\User\Documents\Files LIS\LIS Gallares\LIS Gallares\New folder\Yumizen H1500 Direct\YumizenH1500\bin\Debug\de\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\User\Documents\Files LIS\LIS Gallares\LIS Gallares\New folder\Yumizen H1500 Direct\YumizenH1500\bin\Debug\es\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\User\Documents\Files LIS\LIS Gallares\LIS Gallares\New folder\Yumizen H1500 Direct\YumizenH1500\bin\Debug\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\User\Documents\Files LIS\LIS Gallares\LIS Gallares\New folder\Yumizen H1500 Direct\YumizenH1500\bin\Debug\ru\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\User\Documents\Files LIS\LIS Gallares\LIS Gallares\New folder\Yumizen H1500 Direct\YumizenH1500\obj\Debug\YumizenH1500.frmLogin.resources
+C:\Users\User\Documents\Files LIS\LIS Gallares\LIS Gallares\New folder\Yumizen H1500 Direct\YumizenH1500\obj\Debug\YumizenH1500.MainForm.resources
+C:\Users\User\Documents\Files LIS\LIS Gallares\LIS Gallares\New folder\Yumizen H1500 Direct\YumizenH1500\obj\Debug\YumizenH1500.Resources.resources
+C:\Users\User\Documents\Files LIS\LIS Gallares\LIS Gallares\New folder\Yumizen H1500 Direct\YumizenH1500\obj\Debug\YumizenH1500.vbproj.GenerateResource.Cache
+C:\Users\User\Documents\Files LIS\LIS Gallares\LIS Gallares\New folder\Yumizen H1500 Direct\YumizenH1500\obj\Debug\YumizenH1500.exe.licenses
+C:\Users\User\Documents\Files LIS\LIS Gallares\LIS Gallares\New folder\Yumizen H1500 Direct\YumizenH1500\obj\Debug\YumizenH1500.exe
+C:\Users\User\Documents\Files LIS\LIS Gallares\LIS Gallares\New folder\Yumizen H1500 Direct\YumizenH1500\obj\Debug\YumizenH1500.xml
+C:\Users\User\Documents\Files LIS\LIS Gallares\LIS Gallares\New folder\Yumizen H1500 Direct\YumizenH1500\obj\Debug\YumizenH1500.pdb
+C:\Users\User\Documents\Files LIS\LIS and Driver\LIS Driver\Gallares\Yumizen H1500 Direct\YumizenH1500\bin\Debug\YumizenH1500.exe.config
+C:\Users\User\Documents\Files LIS\LIS and Driver\LIS Driver\Gallares\Yumizen H1500 Direct\YumizenH1500\obj\Debug\YumizenH1500.exe
+C:\Users\User\Documents\Files LIS\LIS and Driver\LIS Driver\Gallares\Yumizen H1500 Direct\YumizenH1500\obj\Debug\YumizenH1500.xml
+C:\Users\User\Documents\Files LIS\LIS and Driver\LIS Driver\Gallares\Yumizen H1500 Direct\YumizenH1500\obj\Debug\YumizenH1500.pdb
+C:\Users\User\Documents\Files LIS\LIS and Driver\LIS Driver\RMPH\Yumizen H1500 Direct\YumizenH1500\bin\Debug\YumizenH1500.exe.config
+C:\Users\User\Documents\Files LIS\LIS and Driver\LIS Driver\RMPH\Yumizen H1500 Direct\YumizenH1500\obj\Debug\YumizenH1500.exe
+C:\Users\User\Documents\Files LIS\LIS and Driver\LIS Driver\RMPH\Yumizen H1500 Direct\YumizenH1500\obj\Debug\YumizenH1500.xml
+C:\Users\User\Documents\Files LIS\LIS and Driver\LIS Driver\RMPH\Yumizen H1500 Direct\YumizenH1500\obj\Debug\YumizenH1500.pdb
+C:\Users\User\Documents\Files LIS\LIS and Driver\LIS Driver\RMPH\Yumizen H1500 Direct\YumizenH1500\bin\Debug\YumizenH1500.exe
+C:\Users\User\Documents\Files LIS\LIS and Driver\LIS Driver\RMPH\Yumizen H1500 Direct\YumizenH1500\bin\Debug\YumizenH1500.pdb
+C:\Users\User\Documents\Files LIS\LIS and Driver\LIS Driver\RMPH\Yumizen H1500 Direct\YumizenH1500\bin\Debug\YumizenH1500.xml
+C:\Users\User\Documents\Files LIS\LIS and Driver\LIS Driver\RMPH\Yumizen H1500 Direct\YumizenH1500\bin\Debug\DevExpress.Data.v19.1.dll
+C:\Users\User\Documents\Files LIS\LIS and Driver\LIS Driver\RMPH\Yumizen H1500 Direct\YumizenH1500\bin\Debug\DevExpress.Printing.v19.1.Core.dll
+C:\Users\User\Documents\Files LIS\LIS and Driver\LIS Driver\RMPH\Yumizen H1500 Direct\YumizenH1500\bin\Debug\DevExpress.Sparkline.v19.1.Core.dll
+C:\Users\User\Documents\Files LIS\LIS and Driver\LIS Driver\RMPH\Yumizen H1500 Direct\YumizenH1500\bin\Debug\DevExpress.Utils.v19.1.dll
+C:\Users\User\Documents\Files LIS\LIS and Driver\LIS Driver\RMPH\Yumizen H1500 Direct\YumizenH1500\bin\Debug\DevExpress.XtraEditors.v19.1.dll
+C:\Users\User\Documents\Files LIS\LIS and Driver\LIS Driver\RMPH\Yumizen H1500 Direct\YumizenH1500\bin\Debug\E1394-91.dll
+C:\Users\User\Documents\Files LIS\LIS and Driver\LIS Driver\RMPH\Yumizen H1500 Direct\YumizenH1500\bin\Debug\LIS01A2.dll
+C:\Users\User\Documents\Files LIS\LIS and Driver\LIS Driver\RMPH\Yumizen H1500 Direct\YumizenH1500\bin\Debug\MySql.Data.dll
+C:\Users\User\Documents\Files LIS\LIS and Driver\LIS Driver\RMPH\Yumizen H1500 Direct\YumizenH1500\bin\Debug\PortableSettingsProvider.dll
+C:\Users\User\Documents\Files LIS\LIS and Driver\LIS Driver\RMPH\Yumizen H1500 Direct\YumizenH1500\bin\Debug\SimpleTCP.dll
+C:\Users\User\Documents\Files LIS\LIS and Driver\LIS Driver\RMPH\Yumizen H1500 Direct\YumizenH1500\bin\Debug\slf4net.dll
+C:\Users\User\Documents\Files LIS\LIS and Driver\LIS Driver\RMPH\Yumizen H1500 Direct\YumizenH1500\bin\Debug\TCPIPConnection.dll
+C:\Users\User\Documents\Files LIS\LIS and Driver\LIS Driver\RMPH\Yumizen H1500 Direct\YumizenH1500\bin\Debug\DevExpress.Pdf.v19.1.Core.dll
+C:\Users\User\Documents\Files LIS\LIS and Driver\LIS Driver\RMPH\Yumizen H1500 Direct\YumizenH1500\bin\Debug\DevExpress.Data.v19.1.xml
+C:\Users\User\Documents\Files LIS\LIS and Driver\LIS Driver\RMPH\Yumizen H1500 Direct\YumizenH1500\bin\Debug\DevExpress.Printing.v19.1.Core.xml
+C:\Users\User\Documents\Files LIS\LIS and Driver\LIS Driver\RMPH\Yumizen H1500 Direct\YumizenH1500\bin\Debug\DevExpress.Sparkline.v19.1.Core.xml
+C:\Users\User\Documents\Files LIS\LIS and Driver\LIS Driver\RMPH\Yumizen H1500 Direct\YumizenH1500\bin\Debug\DevExpress.Utils.v19.1.xml
+C:\Users\User\Documents\Files LIS\LIS and Driver\LIS Driver\RMPH\Yumizen H1500 Direct\YumizenH1500\bin\Debug\DevExpress.XtraEditors.v19.1.xml
+C:\Users\User\Documents\Files LIS\LIS and Driver\LIS Driver\RMPH\Yumizen H1500 Direct\YumizenH1500\bin\Debug\E1394-91.pdb
+C:\Users\User\Documents\Files LIS\LIS and Driver\LIS Driver\RMPH\Yumizen H1500 Direct\YumizenH1500\bin\Debug\LIS01A2.pdb
+C:\Users\User\Documents\Files LIS\LIS and Driver\LIS Driver\RMPH\Yumizen H1500 Direct\YumizenH1500\bin\Debug\PortableSettingsProvider.xml
+C:\Users\User\Documents\Files LIS\LIS and Driver\LIS Driver\RMPH\Yumizen H1500 Direct\YumizenH1500\bin\Debug\slf4net.pdb
+C:\Users\User\Documents\Files LIS\LIS and Driver\LIS Driver\RMPH\Yumizen H1500 Direct\YumizenH1500\bin\Debug\slf4net.xml
+C:\Users\User\Documents\Files LIS\LIS and Driver\LIS Driver\RMPH\Yumizen H1500 Direct\YumizenH1500\bin\Debug\TCPIPConnection.pdb
+C:\Users\User\Documents\Files LIS\LIS and Driver\LIS Driver\RMPH\Yumizen H1500 Direct\YumizenH1500\bin\Debug\DevExpress.Pdf.v19.1.Core.xml
+C:\Users\User\Documents\Files LIS\LIS and Driver\LIS Driver\RMPH\Yumizen H1500 Direct\YumizenH1500\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
+C:\Users\User\Documents\Files LIS\LIS and Driver\LIS Driver\RMPH\Yumizen H1500 Direct\YumizenH1500\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
+C:\Users\User\Documents\Files LIS\LIS and Driver\LIS Driver\RMPH\Yumizen H1500 Direct\YumizenH1500\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
+C:\Users\User\Documents\Files LIS\LIS and Driver\LIS Driver\RMPH\Yumizen H1500 Direct\YumizenH1500\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
+C:\Users\User\Documents\Files LIS\LIS and Driver\LIS Driver\RMPH\Yumizen H1500 Direct\YumizenH1500\bin\Debug\de\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\User\Documents\Files LIS\LIS and Driver\LIS Driver\RMPH\Yumizen H1500 Direct\YumizenH1500\bin\Debug\es\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\User\Documents\Files LIS\LIS and Driver\LIS Driver\RMPH\Yumizen H1500 Direct\YumizenH1500\bin\Debug\ja\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\User\Documents\Files LIS\LIS and Driver\LIS Driver\RMPH\Yumizen H1500 Direct\YumizenH1500\bin\Debug\ru\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\User\Documents\Files LIS\LIS and Driver\LIS Driver\RMPH\Yumizen H1500 Direct\YumizenH1500\bin\Debug\de\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\User\Documents\Files LIS\LIS and Driver\LIS Driver\RMPH\Yumizen H1500 Direct\YumizenH1500\bin\Debug\es\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\User\Documents\Files LIS\LIS and Driver\LIS Driver\RMPH\Yumizen H1500 Direct\YumizenH1500\bin\Debug\ja\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\User\Documents\Files LIS\LIS and Driver\LIS Driver\RMPH\Yumizen H1500 Direct\YumizenH1500\bin\Debug\ru\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\User\Documents\Files LIS\LIS and Driver\LIS Driver\RMPH\Yumizen H1500 Direct\YumizenH1500\bin\Debug\de\DevExpress.Utils.v19.1.resources.dll
+C:\Users\User\Documents\Files LIS\LIS and Driver\LIS Driver\RMPH\Yumizen H1500 Direct\YumizenH1500\bin\Debug\es\DevExpress.Utils.v19.1.resources.dll
+C:\Users\User\Documents\Files LIS\LIS and Driver\LIS Driver\RMPH\Yumizen H1500 Direct\YumizenH1500\bin\Debug\ja\DevExpress.Utils.v19.1.resources.dll
+C:\Users\User\Documents\Files LIS\LIS and Driver\LIS Driver\RMPH\Yumizen H1500 Direct\YumizenH1500\bin\Debug\ru\DevExpress.Utils.v19.1.resources.dll
+C:\Users\User\Documents\Files LIS\LIS and Driver\LIS Driver\RMPH\Yumizen H1500 Direct\YumizenH1500\bin\Debug\de\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\User\Documents\Files LIS\LIS and Driver\LIS Driver\RMPH\Yumizen H1500 Direct\YumizenH1500\bin\Debug\es\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\User\Documents\Files LIS\LIS and Driver\LIS Driver\RMPH\Yumizen H1500 Direct\YumizenH1500\bin\Debug\ja\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\User\Documents\Files LIS\LIS and Driver\LIS Driver\RMPH\Yumizen H1500 Direct\YumizenH1500\bin\Debug\ru\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\User\Documents\Files LIS\LIS and Driver\LIS Driver\RMPH\Yumizen H1500 Direct\YumizenH1500\bin\Debug\de\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\User\Documents\Files LIS\LIS and Driver\LIS Driver\RMPH\Yumizen H1500 Direct\YumizenH1500\bin\Debug\es\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\User\Documents\Files LIS\LIS and Driver\LIS Driver\RMPH\Yumizen H1500 Direct\YumizenH1500\bin\Debug\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\User\Documents\Files LIS\LIS and Driver\LIS Driver\RMPH\Yumizen H1500 Direct\YumizenH1500\bin\Debug\ru\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\User\Documents\Files LIS\LIS and Driver\LIS Driver\RMPH\Yumizen H1500 Direct\YumizenH1500\obj\Debug\YumizenH1500.vbprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Files LIS\LIS and Driver\LIS Driver\RMPH\Yumizen H1500 Direct\YumizenH1500\obj\Debug\YumizenH1500.frmLogin.resources
+C:\Users\User\Documents\Files LIS\LIS and Driver\LIS Driver\RMPH\Yumizen H1500 Direct\YumizenH1500\obj\Debug\YumizenH1500.MainForm.resources
+C:\Users\User\Documents\Files LIS\LIS and Driver\LIS Driver\RMPH\Yumizen H1500 Direct\YumizenH1500\obj\Debug\YumizenH1500.Resources.resources
+C:\Users\User\Documents\Files LIS\LIS and Driver\LIS Driver\RMPH\Yumizen H1500 Direct\YumizenH1500\obj\Debug\YumizenH1500.vbproj.GenerateResource.Cache
+C:\Users\User\Documents\Files LIS\LIS and Driver\LIS Driver\RMPH\Yumizen H1500 Direct\YumizenH1500\obj\Debug\YumizenH1500.exe.licenses
+E:\LIS and Driver\LIS Driver\Sulu Gen\Yumizen H1500 Direct\YumizenH1500\bin\Debug\YumizenH1500.exe.config
+E:\LIS and Driver\LIS Driver\Sulu Gen\Yumizen H1500 Direct\YumizenH1500\obj\Debug\YumizenH1500.exe
+E:\LIS and Driver\LIS Driver\Sulu Gen\Yumizen H1500 Direct\YumizenH1500\obj\Debug\YumizenH1500.xml
+E:\LIS and Driver\LIS Driver\Sulu Gen\Yumizen H1500 Direct\YumizenH1500\obj\Debug\YumizenH1500.pdb
+E:\LIS and Driver\LIS Driver\Sulu Gen\Yumizen H1500 Direct\YumizenH1500\bin\Debug\YumizenH1500.exe
+E:\LIS and Driver\LIS Driver\Sulu Gen\Yumizen H1500 Direct\YumizenH1500\bin\Debug\YumizenH1500.pdb
+E:\LIS and Driver\LIS Driver\Sulu Gen\Yumizen H1500 Direct\YumizenH1500\bin\Debug\YumizenH1500.xml
+E:\LIS and Driver\LIS Driver\Sulu Gen\Yumizen H1500 Direct\YumizenH1500\bin\Debug\DevExpress.Data.v19.1.dll
+E:\LIS and Driver\LIS Driver\Sulu Gen\Yumizen H1500 Direct\YumizenH1500\bin\Debug\DevExpress.Printing.v19.1.Core.dll
+E:\LIS and Driver\LIS Driver\Sulu Gen\Yumizen H1500 Direct\YumizenH1500\bin\Debug\DevExpress.Sparkline.v19.1.Core.dll
+E:\LIS and Driver\LIS Driver\Sulu Gen\Yumizen H1500 Direct\YumizenH1500\bin\Debug\DevExpress.Utils.v19.1.dll
+E:\LIS and Driver\LIS Driver\Sulu Gen\Yumizen H1500 Direct\YumizenH1500\bin\Debug\DevExpress.XtraEditors.v19.1.dll
+E:\LIS and Driver\LIS Driver\Sulu Gen\Yumizen H1500 Direct\YumizenH1500\bin\Debug\E1394-91.dll
+E:\LIS and Driver\LIS Driver\Sulu Gen\Yumizen H1500 Direct\YumizenH1500\bin\Debug\LIS01A2.dll
+E:\LIS and Driver\LIS Driver\Sulu Gen\Yumizen H1500 Direct\YumizenH1500\bin\Debug\MySql.Data.dll
+E:\LIS and Driver\LIS Driver\Sulu Gen\Yumizen H1500 Direct\YumizenH1500\bin\Debug\PortableSettingsProvider.dll
+E:\LIS and Driver\LIS Driver\Sulu Gen\Yumizen H1500 Direct\YumizenH1500\bin\Debug\SimpleTCP.dll
+E:\LIS and Driver\LIS Driver\Sulu Gen\Yumizen H1500 Direct\YumizenH1500\bin\Debug\slf4net.dll
+E:\LIS and Driver\LIS Driver\Sulu Gen\Yumizen H1500 Direct\YumizenH1500\bin\Debug\TCPIPConnection.dll
+E:\LIS and Driver\LIS Driver\Sulu Gen\Yumizen H1500 Direct\YumizenH1500\bin\Debug\DevExpress.Pdf.v19.1.Core.dll
+E:\LIS and Driver\LIS Driver\Sulu Gen\Yumizen H1500 Direct\YumizenH1500\bin\Debug\DevExpress.Data.v19.1.xml
+E:\LIS and Driver\LIS Driver\Sulu Gen\Yumizen H1500 Direct\YumizenH1500\bin\Debug\DevExpress.Printing.v19.1.Core.xml
+E:\LIS and Driver\LIS Driver\Sulu Gen\Yumizen H1500 Direct\YumizenH1500\bin\Debug\DevExpress.Sparkline.v19.1.Core.xml
+E:\LIS and Driver\LIS Driver\Sulu Gen\Yumizen H1500 Direct\YumizenH1500\bin\Debug\DevExpress.Utils.v19.1.xml
+E:\LIS and Driver\LIS Driver\Sulu Gen\Yumizen H1500 Direct\YumizenH1500\bin\Debug\DevExpress.XtraEditors.v19.1.xml
+E:\LIS and Driver\LIS Driver\Sulu Gen\Yumizen H1500 Direct\YumizenH1500\bin\Debug\E1394-91.pdb
+E:\LIS and Driver\LIS Driver\Sulu Gen\Yumizen H1500 Direct\YumizenH1500\bin\Debug\LIS01A2.pdb
+E:\LIS and Driver\LIS Driver\Sulu Gen\Yumizen H1500 Direct\YumizenH1500\bin\Debug\PortableSettingsProvider.xml
+E:\LIS and Driver\LIS Driver\Sulu Gen\Yumizen H1500 Direct\YumizenH1500\bin\Debug\slf4net.pdb
+E:\LIS and Driver\LIS Driver\Sulu Gen\Yumizen H1500 Direct\YumizenH1500\bin\Debug\slf4net.xml
+E:\LIS and Driver\LIS Driver\Sulu Gen\Yumizen H1500 Direct\YumizenH1500\bin\Debug\TCPIPConnection.pdb
+E:\LIS and Driver\LIS Driver\Sulu Gen\Yumizen H1500 Direct\YumizenH1500\bin\Debug\DevExpress.Pdf.v19.1.Core.xml
+E:\LIS and Driver\LIS Driver\Sulu Gen\Yumizen H1500 Direct\YumizenH1500\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
+E:\LIS and Driver\LIS Driver\Sulu Gen\Yumizen H1500 Direct\YumizenH1500\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
+E:\LIS and Driver\LIS Driver\Sulu Gen\Yumizen H1500 Direct\YumizenH1500\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
+E:\LIS and Driver\LIS Driver\Sulu Gen\Yumizen H1500 Direct\YumizenH1500\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
+E:\LIS and Driver\LIS Driver\Sulu Gen\Yumizen H1500 Direct\YumizenH1500\bin\Debug\de\DevExpress.Printing.v19.1.Core.resources.dll
+E:\LIS and Driver\LIS Driver\Sulu Gen\Yumizen H1500 Direct\YumizenH1500\bin\Debug\es\DevExpress.Printing.v19.1.Core.resources.dll
+E:\LIS and Driver\LIS Driver\Sulu Gen\Yumizen H1500 Direct\YumizenH1500\bin\Debug\ja\DevExpress.Printing.v19.1.Core.resources.dll
+E:\LIS and Driver\LIS Driver\Sulu Gen\Yumizen H1500 Direct\YumizenH1500\bin\Debug\ru\DevExpress.Printing.v19.1.Core.resources.dll
+E:\LIS and Driver\LIS Driver\Sulu Gen\Yumizen H1500 Direct\YumizenH1500\bin\Debug\de\DevExpress.Sparkline.v19.1.Core.resources.dll
+E:\LIS and Driver\LIS Driver\Sulu Gen\Yumizen H1500 Direct\YumizenH1500\bin\Debug\es\DevExpress.Sparkline.v19.1.Core.resources.dll
+E:\LIS and Driver\LIS Driver\Sulu Gen\Yumizen H1500 Direct\YumizenH1500\bin\Debug\ja\DevExpress.Sparkline.v19.1.Core.resources.dll
+E:\LIS and Driver\LIS Driver\Sulu Gen\Yumizen H1500 Direct\YumizenH1500\bin\Debug\ru\DevExpress.Sparkline.v19.1.Core.resources.dll
+E:\LIS and Driver\LIS Driver\Sulu Gen\Yumizen H1500 Direct\YumizenH1500\bin\Debug\de\DevExpress.Utils.v19.1.resources.dll
+E:\LIS and Driver\LIS Driver\Sulu Gen\Yumizen H1500 Direct\YumizenH1500\bin\Debug\es\DevExpress.Utils.v19.1.resources.dll
+E:\LIS and Driver\LIS Driver\Sulu Gen\Yumizen H1500 Direct\YumizenH1500\bin\Debug\ja\DevExpress.Utils.v19.1.resources.dll
+E:\LIS and Driver\LIS Driver\Sulu Gen\Yumizen H1500 Direct\YumizenH1500\bin\Debug\ru\DevExpress.Utils.v19.1.resources.dll
+E:\LIS and Driver\LIS Driver\Sulu Gen\Yumizen H1500 Direct\YumizenH1500\bin\Debug\de\DevExpress.XtraEditors.v19.1.resources.dll
+E:\LIS and Driver\LIS Driver\Sulu Gen\Yumizen H1500 Direct\YumizenH1500\bin\Debug\es\DevExpress.XtraEditors.v19.1.resources.dll
+E:\LIS and Driver\LIS Driver\Sulu Gen\Yumizen H1500 Direct\YumizenH1500\bin\Debug\ja\DevExpress.XtraEditors.v19.1.resources.dll
+E:\LIS and Driver\LIS Driver\Sulu Gen\Yumizen H1500 Direct\YumizenH1500\bin\Debug\ru\DevExpress.XtraEditors.v19.1.resources.dll
+E:\LIS and Driver\LIS Driver\Sulu Gen\Yumizen H1500 Direct\YumizenH1500\bin\Debug\de\DevExpress.Pdf.v19.1.Core.resources.dll
+E:\LIS and Driver\LIS Driver\Sulu Gen\Yumizen H1500 Direct\YumizenH1500\bin\Debug\es\DevExpress.Pdf.v19.1.Core.resources.dll
+E:\LIS and Driver\LIS Driver\Sulu Gen\Yumizen H1500 Direct\YumizenH1500\bin\Debug\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+E:\LIS and Driver\LIS Driver\Sulu Gen\Yumizen H1500 Direct\YumizenH1500\bin\Debug\ru\DevExpress.Pdf.v19.1.Core.resources.dll
+E:\LIS and Driver\LIS Driver\Sulu Gen\Yumizen H1500 Direct\YumizenH1500\obj\Debug\YumizenH1500.vbprojResolveAssemblyReference.cache
+E:\LIS and Driver\LIS Driver\Sulu Gen\Yumizen H1500 Direct\YumizenH1500\obj\Debug\YumizenH1500.frmLogin.resources
+E:\LIS and Driver\LIS Driver\Sulu Gen\Yumizen H1500 Direct\YumizenH1500\obj\Debug\YumizenH1500.MainForm.resources
+E:\LIS and Driver\LIS Driver\Sulu Gen\Yumizen H1500 Direct\YumizenH1500\obj\Debug\YumizenH1500.Resources.resources
+E:\LIS and Driver\LIS Driver\Sulu Gen\Yumizen H1500 Direct\YumizenH1500\obj\Debug\YumizenH1500.vbproj.GenerateResource.Cache
+E:\LIS and Driver\LIS Driver\Sulu Gen\Yumizen H1500 Direct\YumizenH1500\obj\Debug\YumizenH1500.exe.licenses
+E:\LIS and Driver\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3\YumizenH1500\bin\Debug\YumizenH1500.exe.config
+E:\LIS and Driver\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3\YumizenH1500\obj\Debug\YumizenH1500.exe
+E:\LIS and Driver\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3\YumizenH1500\obj\Debug\YumizenH1500.xml
+E:\LIS and Driver\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3\YumizenH1500\obj\Debug\YumizenH1500.pdb
+E:\LIS and Driver\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3\YumizenH1500\bin\Debug\YumizenH1500.exe
+E:\LIS and Driver\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3\YumizenH1500\bin\Debug\YumizenH1500.pdb
+E:\LIS and Driver\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3\YumizenH1500\bin\Debug\YumizenH1500.xml
+E:\LIS and Driver\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3\YumizenH1500\bin\Debug\DevExpress.Data.v19.1.dll
+E:\LIS and Driver\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3\YumizenH1500\bin\Debug\DevExpress.Printing.v19.1.Core.dll
+E:\LIS and Driver\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3\YumizenH1500\bin\Debug\DevExpress.Sparkline.v19.1.Core.dll
+E:\LIS and Driver\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3\YumizenH1500\bin\Debug\DevExpress.Utils.v19.1.dll
+E:\LIS and Driver\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3\YumizenH1500\bin\Debug\DevExpress.XtraEditors.v19.1.dll
+E:\LIS and Driver\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3\YumizenH1500\bin\Debug\E1394-91.dll
+E:\LIS and Driver\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3\YumizenH1500\bin\Debug\LIS01A2.dll
+E:\LIS and Driver\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3\YumizenH1500\bin\Debug\MySql.Data.dll
+E:\LIS and Driver\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3\YumizenH1500\bin\Debug\PortableSettingsProvider.dll
+E:\LIS and Driver\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3\YumizenH1500\bin\Debug\SimpleTCP.dll
+E:\LIS and Driver\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3\YumizenH1500\bin\Debug\slf4net.dll
+E:\LIS and Driver\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3\YumizenH1500\bin\Debug\TCPIPConnection.dll
+E:\LIS and Driver\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3\YumizenH1500\bin\Debug\DevExpress.Pdf.v19.1.Core.dll
+E:\LIS and Driver\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3\YumizenH1500\bin\Debug\DevExpress.Data.v19.1.xml
+E:\LIS and Driver\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3\YumizenH1500\bin\Debug\DevExpress.Printing.v19.1.Core.xml
+E:\LIS and Driver\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3\YumizenH1500\bin\Debug\DevExpress.Sparkline.v19.1.Core.xml
+E:\LIS and Driver\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3\YumizenH1500\bin\Debug\DevExpress.Utils.v19.1.xml
+E:\LIS and Driver\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3\YumizenH1500\bin\Debug\DevExpress.XtraEditors.v19.1.xml
+E:\LIS and Driver\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3\YumizenH1500\bin\Debug\E1394-91.pdb
+E:\LIS and Driver\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3\YumizenH1500\bin\Debug\LIS01A2.pdb
+E:\LIS and Driver\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3\YumizenH1500\bin\Debug\PortableSettingsProvider.xml
+E:\LIS and Driver\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3\YumizenH1500\bin\Debug\slf4net.pdb
+E:\LIS and Driver\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3\YumizenH1500\bin\Debug\slf4net.xml
+E:\LIS and Driver\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3\YumizenH1500\bin\Debug\TCPIPConnection.pdb
+E:\LIS and Driver\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3\YumizenH1500\bin\Debug\DevExpress.Pdf.v19.1.Core.xml
+E:\LIS and Driver\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3\YumizenH1500\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
+E:\LIS and Driver\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3\YumizenH1500\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
+E:\LIS and Driver\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3\YumizenH1500\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
+E:\LIS and Driver\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3\YumizenH1500\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
+E:\LIS and Driver\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3\YumizenH1500\bin\Debug\de\DevExpress.Printing.v19.1.Core.resources.dll
+E:\LIS and Driver\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3\YumizenH1500\bin\Debug\es\DevExpress.Printing.v19.1.Core.resources.dll
+E:\LIS and Driver\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3\YumizenH1500\bin\Debug\ja\DevExpress.Printing.v19.1.Core.resources.dll
+E:\LIS and Driver\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3\YumizenH1500\bin\Debug\ru\DevExpress.Printing.v19.1.Core.resources.dll
+E:\LIS and Driver\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3\YumizenH1500\bin\Debug\de\DevExpress.Sparkline.v19.1.Core.resources.dll
+E:\LIS and Driver\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3\YumizenH1500\bin\Debug\es\DevExpress.Sparkline.v19.1.Core.resources.dll
+E:\LIS and Driver\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3\YumizenH1500\bin\Debug\ja\DevExpress.Sparkline.v19.1.Core.resources.dll
+E:\LIS and Driver\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3\YumizenH1500\bin\Debug\ru\DevExpress.Sparkline.v19.1.Core.resources.dll
+E:\LIS and Driver\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3\YumizenH1500\bin\Debug\de\DevExpress.Utils.v19.1.resources.dll
+E:\LIS and Driver\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3\YumizenH1500\bin\Debug\es\DevExpress.Utils.v19.1.resources.dll
+E:\LIS and Driver\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3\YumizenH1500\bin\Debug\ja\DevExpress.Utils.v19.1.resources.dll
+E:\LIS and Driver\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3\YumizenH1500\bin\Debug\ru\DevExpress.Utils.v19.1.resources.dll
+E:\LIS and Driver\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3\YumizenH1500\bin\Debug\de\DevExpress.XtraEditors.v19.1.resources.dll
+E:\LIS and Driver\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3\YumizenH1500\bin\Debug\es\DevExpress.XtraEditors.v19.1.resources.dll
+E:\LIS and Driver\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3\YumizenH1500\bin\Debug\ja\DevExpress.XtraEditors.v19.1.resources.dll
+E:\LIS and Driver\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3\YumizenH1500\bin\Debug\ru\DevExpress.XtraEditors.v19.1.resources.dll
+E:\LIS and Driver\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3\YumizenH1500\bin\Debug\de\DevExpress.Pdf.v19.1.Core.resources.dll
+E:\LIS and Driver\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3\YumizenH1500\bin\Debug\es\DevExpress.Pdf.v19.1.Core.resources.dll
+E:\LIS and Driver\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3\YumizenH1500\bin\Debug\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+E:\LIS and Driver\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3\YumizenH1500\bin\Debug\ru\DevExpress.Pdf.v19.1.Core.resources.dll
+E:\LIS and Driver\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3\YumizenH1500\obj\Debug\YumizenH1500.vbprojResolveAssemblyReference.cache
+E:\LIS and Driver\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3\YumizenH1500\obj\Debug\YumizenH1500.frmLogin.resources
+E:\LIS and Driver\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3\YumizenH1500\obj\Debug\YumizenH1500.MainForm.resources
+E:\LIS and Driver\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3\YumizenH1500\obj\Debug\YumizenH1500.Resources.resources
+E:\LIS and Driver\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3\YumizenH1500\obj\Debug\YumizenH1500.vbproj.GenerateResource.Cache
+E:\LIS and Driver\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3\YumizenH1500\obj\Debug\YumizenH1500.exe.licenses
+C:\Users\ADMIN\Desktop\Blessed Family\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3\YumizenH1500\bin\Debug\YumizenH1500.exe.config
+C:\Users\ADMIN\Desktop\Blessed Family\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3\YumizenH1500\obj\Debug\YumizenH1500.exe
+C:\Users\ADMIN\Desktop\Blessed Family\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3\YumizenH1500\obj\Debug\YumizenH1500.xml
+C:\Users\ADMIN\Desktop\Blessed Family\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3\YumizenH1500\obj\Debug\YumizenH1500.pdb
+C:\Users\ADMIN\Desktop\Blessed Family\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3\YumizenH1500\bin\Debug\YumizenH1500.exe
+C:\Users\ADMIN\Desktop\Blessed Family\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3\YumizenH1500\bin\Debug\YumizenH1500.pdb
+C:\Users\ADMIN\Desktop\Blessed Family\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3\YumizenH1500\bin\Debug\YumizenH1500.xml
+C:\Users\ADMIN\Desktop\Blessed Family\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3\YumizenH1500\bin\Debug\DevExpress.Data.v19.1.dll
+C:\Users\ADMIN\Desktop\Blessed Family\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3\YumizenH1500\bin\Debug\DevExpress.Printing.v19.1.Core.dll
+C:\Users\ADMIN\Desktop\Blessed Family\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3\YumizenH1500\bin\Debug\DevExpress.Sparkline.v19.1.Core.dll
+C:\Users\ADMIN\Desktop\Blessed Family\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3\YumizenH1500\bin\Debug\DevExpress.Utils.v19.1.dll
+C:\Users\ADMIN\Desktop\Blessed Family\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3\YumizenH1500\bin\Debug\DevExpress.XtraEditors.v19.1.dll
+C:\Users\ADMIN\Desktop\Blessed Family\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3\YumizenH1500\bin\Debug\E1394-91.dll
+C:\Users\ADMIN\Desktop\Blessed Family\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3\YumizenH1500\bin\Debug\LIS01A2.dll
+C:\Users\ADMIN\Desktop\Blessed Family\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3\YumizenH1500\bin\Debug\MySql.Data.dll
+C:\Users\ADMIN\Desktop\Blessed Family\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3\YumizenH1500\bin\Debug\PortableSettingsProvider.dll
+C:\Users\ADMIN\Desktop\Blessed Family\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3\YumizenH1500\bin\Debug\SimpleTCP.dll
+C:\Users\ADMIN\Desktop\Blessed Family\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3\YumizenH1500\bin\Debug\slf4net.dll
+C:\Users\ADMIN\Desktop\Blessed Family\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3\YumizenH1500\bin\Debug\TCPIPConnection.dll
+C:\Users\ADMIN\Desktop\Blessed Family\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3\YumizenH1500\bin\Debug\DevExpress.Pdf.v19.1.Core.dll
+C:\Users\ADMIN\Desktop\Blessed Family\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3\YumizenH1500\bin\Debug\DevExpress.Data.v19.1.xml
+C:\Users\ADMIN\Desktop\Blessed Family\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3\YumizenH1500\bin\Debug\DevExpress.Printing.v19.1.Core.xml
+C:\Users\ADMIN\Desktop\Blessed Family\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3\YumizenH1500\bin\Debug\DevExpress.Sparkline.v19.1.Core.xml
+C:\Users\ADMIN\Desktop\Blessed Family\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3\YumizenH1500\bin\Debug\DevExpress.Utils.v19.1.xml
+C:\Users\ADMIN\Desktop\Blessed Family\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3\YumizenH1500\bin\Debug\DevExpress.XtraEditors.v19.1.xml
+C:\Users\ADMIN\Desktop\Blessed Family\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3\YumizenH1500\bin\Debug\E1394-91.pdb
+C:\Users\ADMIN\Desktop\Blessed Family\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3\YumizenH1500\bin\Debug\LIS01A2.pdb
+C:\Users\ADMIN\Desktop\Blessed Family\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3\YumizenH1500\bin\Debug\PortableSettingsProvider.xml
+C:\Users\ADMIN\Desktop\Blessed Family\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3\YumizenH1500\bin\Debug\slf4net.pdb
+C:\Users\ADMIN\Desktop\Blessed Family\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3\YumizenH1500\bin\Debug\slf4net.xml
+C:\Users\ADMIN\Desktop\Blessed Family\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3\YumizenH1500\bin\Debug\TCPIPConnection.pdb
+C:\Users\ADMIN\Desktop\Blessed Family\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3\YumizenH1500\bin\Debug\DevExpress.Pdf.v19.1.Core.xml
+C:\Users\ADMIN\Desktop\Blessed Family\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3\YumizenH1500\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
+C:\Users\ADMIN\Desktop\Blessed Family\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3\YumizenH1500\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
+C:\Users\ADMIN\Desktop\Blessed Family\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3\YumizenH1500\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
+C:\Users\ADMIN\Desktop\Blessed Family\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3\YumizenH1500\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
+C:\Users\ADMIN\Desktop\Blessed Family\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3\YumizenH1500\bin\Debug\de\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\ADMIN\Desktop\Blessed Family\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3\YumizenH1500\bin\Debug\es\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\ADMIN\Desktop\Blessed Family\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3\YumizenH1500\bin\Debug\ja\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\ADMIN\Desktop\Blessed Family\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3\YumizenH1500\bin\Debug\ru\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\ADMIN\Desktop\Blessed Family\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3\YumizenH1500\bin\Debug\de\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\ADMIN\Desktop\Blessed Family\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3\YumizenH1500\bin\Debug\es\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\ADMIN\Desktop\Blessed Family\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3\YumizenH1500\bin\Debug\ja\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\ADMIN\Desktop\Blessed Family\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3\YumizenH1500\bin\Debug\ru\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\ADMIN\Desktop\Blessed Family\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3\YumizenH1500\bin\Debug\de\DevExpress.Utils.v19.1.resources.dll
+C:\Users\ADMIN\Desktop\Blessed Family\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3\YumizenH1500\bin\Debug\es\DevExpress.Utils.v19.1.resources.dll
+C:\Users\ADMIN\Desktop\Blessed Family\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3\YumizenH1500\bin\Debug\ja\DevExpress.Utils.v19.1.resources.dll
+C:\Users\ADMIN\Desktop\Blessed Family\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3\YumizenH1500\bin\Debug\ru\DevExpress.Utils.v19.1.resources.dll
+C:\Users\ADMIN\Desktop\Blessed Family\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3\YumizenH1500\bin\Debug\de\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\ADMIN\Desktop\Blessed Family\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3\YumizenH1500\bin\Debug\es\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\ADMIN\Desktop\Blessed Family\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3\YumizenH1500\bin\Debug\ja\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\ADMIN\Desktop\Blessed Family\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3\YumizenH1500\bin\Debug\ru\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\ADMIN\Desktop\Blessed Family\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3\YumizenH1500\bin\Debug\de\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\ADMIN\Desktop\Blessed Family\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3\YumizenH1500\bin\Debug\es\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\ADMIN\Desktop\Blessed Family\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3\YumizenH1500\bin\Debug\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\ADMIN\Desktop\Blessed Family\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3\YumizenH1500\bin\Debug\ru\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\ADMIN\Desktop\Blessed Family\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3\YumizenH1500\obj\Debug\YumizenH1500.vbprojResolveAssemblyReference.cache
+C:\Users\ADMIN\Desktop\Blessed Family\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3\YumizenH1500\obj\Debug\YumizenH1500.frmLogin.resources
+C:\Users\ADMIN\Desktop\Blessed Family\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3\YumizenH1500\obj\Debug\YumizenH1500.MainForm.resources
+C:\Users\ADMIN\Desktop\Blessed Family\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3\YumizenH1500\obj\Debug\YumizenH1500.Resources.resources
+C:\Users\ADMIN\Desktop\Blessed Family\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3\YumizenH1500\obj\Debug\YumizenH1500.vbproj.GenerateResource.Cache
+C:\Users\ADMIN\Desktop\Blessed Family\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3\YumizenH1500\obj\Debug\YumizenH1500.exe.licenses
+C:\Users\ADMIN\Desktop\Blessed Family\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3.0.2\YumizenH1500\bin\Debug\YumizenH1500.exe.config
+C:\Users\ADMIN\Desktop\Blessed Family\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3.0.2\YumizenH1500\bin\Debug\YumizenH1500.exe
+C:\Users\ADMIN\Desktop\Blessed Family\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3.0.2\YumizenH1500\bin\Debug\YumizenH1500.pdb
+C:\Users\ADMIN\Desktop\Blessed Family\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3.0.2\YumizenH1500\bin\Debug\YumizenH1500.xml
+C:\Users\ADMIN\Desktop\Blessed Family\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3.0.2\YumizenH1500\bin\Debug\DevExpress.Data.v19.1.dll
+C:\Users\ADMIN\Desktop\Blessed Family\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3.0.2\YumizenH1500\bin\Debug\DevExpress.Printing.v19.1.Core.dll
+C:\Users\ADMIN\Desktop\Blessed Family\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3.0.2\YumizenH1500\bin\Debug\DevExpress.Sparkline.v19.1.Core.dll
+C:\Users\ADMIN\Desktop\Blessed Family\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3.0.2\YumizenH1500\bin\Debug\DevExpress.Utils.v19.1.dll
+C:\Users\ADMIN\Desktop\Blessed Family\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3.0.2\YumizenH1500\bin\Debug\DevExpress.XtraEditors.v19.1.dll
+C:\Users\ADMIN\Desktop\Blessed Family\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3.0.2\YumizenH1500\bin\Debug\E1394-91.dll
+C:\Users\ADMIN\Desktop\Blessed Family\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3.0.2\YumizenH1500\bin\Debug\LIS01A2.dll
+C:\Users\ADMIN\Desktop\Blessed Family\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3.0.2\YumizenH1500\bin\Debug\MySql.Data.dll
+C:\Users\ADMIN\Desktop\Blessed Family\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3.0.2\YumizenH1500\bin\Debug\PortableSettingsProvider.dll
+C:\Users\ADMIN\Desktop\Blessed Family\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3.0.2\YumizenH1500\bin\Debug\SimpleTCP.dll
+C:\Users\ADMIN\Desktop\Blessed Family\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3.0.2\YumizenH1500\bin\Debug\slf4net.dll
+C:\Users\ADMIN\Desktop\Blessed Family\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3.0.2\YumizenH1500\bin\Debug\TCPIPConnection.dll
+C:\Users\ADMIN\Desktop\Blessed Family\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3.0.2\YumizenH1500\bin\Debug\DevExpress.Pdf.v19.1.Core.dll
+C:\Users\ADMIN\Desktop\Blessed Family\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3.0.2\YumizenH1500\bin\Debug\DevExpress.Data.v19.1.xml
+C:\Users\ADMIN\Desktop\Blessed Family\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3.0.2\YumizenH1500\bin\Debug\DevExpress.Printing.v19.1.Core.xml
+C:\Users\ADMIN\Desktop\Blessed Family\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3.0.2\YumizenH1500\bin\Debug\DevExpress.Sparkline.v19.1.Core.xml
+C:\Users\ADMIN\Desktop\Blessed Family\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3.0.2\YumizenH1500\bin\Debug\DevExpress.Utils.v19.1.xml
+C:\Users\ADMIN\Desktop\Blessed Family\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3.0.2\YumizenH1500\bin\Debug\DevExpress.XtraEditors.v19.1.xml
+C:\Users\ADMIN\Desktop\Blessed Family\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3.0.2\YumizenH1500\bin\Debug\E1394-91.pdb
+C:\Users\ADMIN\Desktop\Blessed Family\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3.0.2\YumizenH1500\bin\Debug\LIS01A2.pdb
+C:\Users\ADMIN\Desktop\Blessed Family\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3.0.2\YumizenH1500\bin\Debug\PortableSettingsProvider.xml
+C:\Users\ADMIN\Desktop\Blessed Family\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3.0.2\YumizenH1500\bin\Debug\slf4net.pdb
+C:\Users\ADMIN\Desktop\Blessed Family\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3.0.2\YumizenH1500\bin\Debug\slf4net.xml
+C:\Users\ADMIN\Desktop\Blessed Family\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3.0.2\YumizenH1500\bin\Debug\TCPIPConnection.pdb
+C:\Users\ADMIN\Desktop\Blessed Family\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3.0.2\YumizenH1500\bin\Debug\DevExpress.Pdf.v19.1.Core.xml
+C:\Users\ADMIN\Desktop\Blessed Family\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3.0.2\YumizenH1500\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
+C:\Users\ADMIN\Desktop\Blessed Family\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3.0.2\YumizenH1500\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
+C:\Users\ADMIN\Desktop\Blessed Family\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3.0.2\YumizenH1500\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
+C:\Users\ADMIN\Desktop\Blessed Family\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3.0.2\YumizenH1500\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
+C:\Users\ADMIN\Desktop\Blessed Family\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3.0.2\YumizenH1500\bin\Debug\de\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\ADMIN\Desktop\Blessed Family\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3.0.2\YumizenH1500\bin\Debug\es\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\ADMIN\Desktop\Blessed Family\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3.0.2\YumizenH1500\bin\Debug\ja\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\ADMIN\Desktop\Blessed Family\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3.0.2\YumizenH1500\bin\Debug\ru\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\ADMIN\Desktop\Blessed Family\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3.0.2\YumizenH1500\bin\Debug\de\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\ADMIN\Desktop\Blessed Family\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3.0.2\YumizenH1500\bin\Debug\es\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\ADMIN\Desktop\Blessed Family\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3.0.2\YumizenH1500\bin\Debug\ja\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\ADMIN\Desktop\Blessed Family\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3.0.2\YumizenH1500\bin\Debug\ru\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\ADMIN\Desktop\Blessed Family\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3.0.2\YumizenH1500\bin\Debug\de\DevExpress.Utils.v19.1.resources.dll
+C:\Users\ADMIN\Desktop\Blessed Family\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3.0.2\YumizenH1500\bin\Debug\es\DevExpress.Utils.v19.1.resources.dll
+C:\Users\ADMIN\Desktop\Blessed Family\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3.0.2\YumizenH1500\bin\Debug\ja\DevExpress.Utils.v19.1.resources.dll
+C:\Users\ADMIN\Desktop\Blessed Family\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3.0.2\YumizenH1500\bin\Debug\ru\DevExpress.Utils.v19.1.resources.dll
+C:\Users\ADMIN\Desktop\Blessed Family\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3.0.2\YumizenH1500\bin\Debug\de\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\ADMIN\Desktop\Blessed Family\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3.0.2\YumizenH1500\bin\Debug\es\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\ADMIN\Desktop\Blessed Family\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3.0.2\YumizenH1500\bin\Debug\ja\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\ADMIN\Desktop\Blessed Family\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3.0.2\YumizenH1500\bin\Debug\ru\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\ADMIN\Desktop\Blessed Family\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3.0.2\YumizenH1500\bin\Debug\de\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\ADMIN\Desktop\Blessed Family\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3.0.2\YumizenH1500\bin\Debug\es\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\ADMIN\Desktop\Blessed Family\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3.0.2\YumizenH1500\bin\Debug\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\ADMIN\Desktop\Blessed Family\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3.0.2\YumizenH1500\bin\Debug\ru\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\ADMIN\Desktop\Blessed Family\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3.0.2\YumizenH1500\obj\Debug\YumizenH1500.frmLogin.resources
+C:\Users\ADMIN\Desktop\Blessed Family\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3.0.2\YumizenH1500\obj\Debug\YumizenH1500.MainForm.resources
+C:\Users\ADMIN\Desktop\Blessed Family\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3.0.2\YumizenH1500\obj\Debug\YumizenH1500.Resources.resources
+C:\Users\ADMIN\Desktop\Blessed Family\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3.0.2\YumizenH1500\obj\Debug\YumizenH1500.vbproj.GenerateResource.Cache
+C:\Users\ADMIN\Desktop\Blessed Family\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3.0.2\YumizenH1500\obj\Debug\YumizenH1500.exe.licenses
+C:\Users\ADMIN\Desktop\Blessed Family\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3.0.2\YumizenH1500\obj\Debug\YumizenH1500.exe
+C:\Users\ADMIN\Desktop\Blessed Family\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3.0.2\YumizenH1500\obj\Debug\YumizenH1500.xml
+C:\Users\ADMIN\Desktop\Blessed Family\LIS Driver\Sulu Gen\Yumizen H1500 Direct - VER 3.0.2\YumizenH1500\obj\Debug\YumizenH1500.pdb

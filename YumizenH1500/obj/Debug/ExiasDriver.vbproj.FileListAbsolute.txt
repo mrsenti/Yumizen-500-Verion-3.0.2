@@ -1,0 +1,125 @@
+c:\users\armie\documents\visual studio 2015\Projects\ExiasDriver\ExiasDriver\bin\Debug\ExiasDriver.exe.config
+C:\Users\armie\Documents\Visual Studio 2015\Projects\ExiasDriver\ExiasDriver\bin\Debug\ExiasDriver.exe
+C:\Users\armie\Documents\Visual Studio 2015\Projects\ExiasDriver\ExiasDriver\bin\Debug\ExiasDriver.pdb
+C:\Users\armie\Documents\Visual Studio 2015\Projects\ExiasDriver\ExiasDriver\bin\Debug\ExiasDriver.xml
+C:\Users\armie\Documents\Visual Studio 2015\Projects\ExiasDriver\ExiasDriver\bin\Debug\DevExpress.Data.v19.1.dll
+C:\Users\armie\Documents\Visual Studio 2015\Projects\ExiasDriver\ExiasDriver\bin\Debug\DevExpress.Printing.v19.1.Core.dll
+C:\Users\armie\Documents\Visual Studio 2015\Projects\ExiasDriver\ExiasDriver\bin\Debug\DevExpress.Sparkline.v19.1.Core.dll
+C:\Users\armie\Documents\Visual Studio 2015\Projects\ExiasDriver\ExiasDriver\bin\Debug\DevExpress.Utils.v19.1.dll
+C:\Users\armie\Documents\Visual Studio 2015\Projects\ExiasDriver\ExiasDriver\bin\Debug\DevExpress.XtraEditors.v19.1.dll
+C:\Users\armie\Documents\Visual Studio 2015\Projects\ExiasDriver\ExiasDriver\bin\Debug\E1394-91.dll
+C:\Users\armie\Documents\Visual Studio 2015\Projects\ExiasDriver\ExiasDriver\bin\Debug\LIS01A2.dll
+C:\Users\armie\Documents\Visual Studio 2015\Projects\ExiasDriver\ExiasDriver\bin\Debug\slf4net.dll
+C:\Users\armie\Documents\Visual Studio 2015\Projects\ExiasDriver\ExiasDriver\bin\Debug\TCPIPConnection.dll
+C:\Users\armie\Documents\Visual Studio 2015\Projects\ExiasDriver\ExiasDriver\bin\Debug\DevExpress.Pdf.v19.1.Core.dll
+C:\Users\armie\Documents\Visual Studio 2015\Projects\ExiasDriver\ExiasDriver\bin\Debug\DevExpress.Data.v19.1.xml
+C:\Users\armie\Documents\Visual Studio 2015\Projects\ExiasDriver\ExiasDriver\bin\Debug\DevExpress.Printing.v19.1.Core.xml
+C:\Users\armie\Documents\Visual Studio 2015\Projects\ExiasDriver\ExiasDriver\bin\Debug\DevExpress.Sparkline.v19.1.Core.xml
+C:\Users\armie\Documents\Visual Studio 2015\Projects\ExiasDriver\ExiasDriver\bin\Debug\DevExpress.Utils.v19.1.xml
+C:\Users\armie\Documents\Visual Studio 2015\Projects\ExiasDriver\ExiasDriver\bin\Debug\DevExpress.XtraEditors.v19.1.xml
+C:\Users\armie\Documents\Visual Studio 2015\Projects\ExiasDriver\ExiasDriver\bin\Debug\E1394-91.pdb
+C:\Users\armie\Documents\Visual Studio 2015\Projects\ExiasDriver\ExiasDriver\bin\Debug\LIS01A2.pdb
+C:\Users\armie\Documents\Visual Studio 2015\Projects\ExiasDriver\ExiasDriver\bin\Debug\slf4net.pdb
+C:\Users\armie\Documents\Visual Studio 2015\Projects\ExiasDriver\ExiasDriver\bin\Debug\slf4net.xml
+C:\Users\armie\Documents\Visual Studio 2015\Projects\ExiasDriver\ExiasDriver\bin\Debug\TCPIPConnection.pdb
+C:\Users\armie\Documents\Visual Studio 2015\Projects\ExiasDriver\ExiasDriver\bin\Debug\DevExpress.Pdf.v19.1.Core.xml
+C:\Users\armie\Documents\Visual Studio 2015\Projects\ExiasDriver\ExiasDriver\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
+C:\Users\armie\Documents\Visual Studio 2015\Projects\ExiasDriver\ExiasDriver\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
+C:\Users\armie\Documents\Visual Studio 2015\Projects\ExiasDriver\ExiasDriver\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
+C:\Users\armie\Documents\Visual Studio 2015\Projects\ExiasDriver\ExiasDriver\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
+C:\Users\armie\Documents\Visual Studio 2015\Projects\ExiasDriver\ExiasDriver\bin\Debug\de\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\armie\Documents\Visual Studio 2015\Projects\ExiasDriver\ExiasDriver\bin\Debug\es\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\armie\Documents\Visual Studio 2015\Projects\ExiasDriver\ExiasDriver\bin\Debug\ja\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\armie\Documents\Visual Studio 2015\Projects\ExiasDriver\ExiasDriver\bin\Debug\ru\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\armie\Documents\Visual Studio 2015\Projects\ExiasDriver\ExiasDriver\bin\Debug\de\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\armie\Documents\Visual Studio 2015\Projects\ExiasDriver\ExiasDriver\bin\Debug\es\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\armie\Documents\Visual Studio 2015\Projects\ExiasDriver\ExiasDriver\bin\Debug\ja\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\armie\Documents\Visual Studio 2015\Projects\ExiasDriver\ExiasDriver\bin\Debug\ru\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\armie\Documents\Visual Studio 2015\Projects\ExiasDriver\ExiasDriver\bin\Debug\de\DevExpress.Utils.v19.1.resources.dll
+C:\Users\armie\Documents\Visual Studio 2015\Projects\ExiasDriver\ExiasDriver\bin\Debug\es\DevExpress.Utils.v19.1.resources.dll
+C:\Users\armie\Documents\Visual Studio 2015\Projects\ExiasDriver\ExiasDriver\bin\Debug\ja\DevExpress.Utils.v19.1.resources.dll
+C:\Users\armie\Documents\Visual Studio 2015\Projects\ExiasDriver\ExiasDriver\bin\Debug\ru\DevExpress.Utils.v19.1.resources.dll
+C:\Users\armie\Documents\Visual Studio 2015\Projects\ExiasDriver\ExiasDriver\bin\Debug\de\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\armie\Documents\Visual Studio 2015\Projects\ExiasDriver\ExiasDriver\bin\Debug\es\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\armie\Documents\Visual Studio 2015\Projects\ExiasDriver\ExiasDriver\bin\Debug\ja\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\armie\Documents\Visual Studio 2015\Projects\ExiasDriver\ExiasDriver\bin\Debug\ru\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\armie\Documents\Visual Studio 2015\Projects\ExiasDriver\ExiasDriver\bin\Debug\de\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\armie\Documents\Visual Studio 2015\Projects\ExiasDriver\ExiasDriver\bin\Debug\es\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\armie\Documents\Visual Studio 2015\Projects\ExiasDriver\ExiasDriver\bin\Debug\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\armie\Documents\Visual Studio 2015\Projects\ExiasDriver\ExiasDriver\bin\Debug\ru\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\armie\Documents\Visual Studio 2015\Projects\ExiasDriver\ExiasDriver\obj\Debug\ExiasDriver.vbprojResolveAssemblyReference.cache
+C:\Users\armie\Documents\Visual Studio 2015\Projects\ExiasDriver\ExiasDriver\obj\Debug\ExiasDriver.Resources.resources
+C:\Users\armie\Documents\Visual Studio 2015\Projects\ExiasDriver\ExiasDriver\obj\Debug\ExiasDriver.vbproj.GenerateResource.Cache
+C:\Users\armie\Documents\Visual Studio 2015\Projects\ExiasDriver\ExiasDriver\obj\Debug\ExiasDriver.exe.licenses
+C:\Users\armie\Documents\Visual Studio 2015\Projects\ExiasDriver\ExiasDriver\obj\Debug\ExiasDriver.exe
+C:\Users\armie\Documents\Visual Studio 2015\Projects\ExiasDriver\ExiasDriver\obj\Debug\ExiasDriver.xml
+C:\Users\armie\Documents\Visual Studio 2015\Projects\ExiasDriver\ExiasDriver\obj\Debug\ExiasDriver.pdb
+C:\Users\armie\Documents\Visual Studio 2015\Projects\ExiasDriver\ExiasDriver\bin\Debug\SimpleTCP.dll
+C:\Users\armie\Documents\Visual Studio 2015\Projects\ExiasDriver\ExiasDriver\obj\Debug\ExiasDriver.MainForm.resources
+C:\Users\armie\Documents\Visual Studio 2015\Projects\ExiasDriver\ExiasDriver\bin\Debug\MySql.Data.dll
+C:\Users\armie\Documents\Visual Studio 2015\Projects\ExiasDriver\ExiasDriver\bin\Debug\PortableSettingsProvider.dll
+C:\Users\armie\Documents\Visual Studio 2015\Projects\ExiasDriver\ExiasDriver\bin\Debug\PortableSettingsProvider.xml
+C:\Users\armie\Documents\Visual Studio 2015\Projects\ExiasDriver\ExiasDriver\obj\Debug\ExiasDriver.frmLogin.resources
+E:\SBSI\SBIS LIS\LIS Updated\AnalyzerDriver\LIS PRO\ExiasDriver\ExiasDriver\bin\Debug\ExiasDriver.exe.config
+E:\SBSI\SBIS LIS\LIS Updated\AnalyzerDriver\LIS PRO\ExiasDriver\ExiasDriver\bin\Debug\ExiasDriver.exe
+E:\SBSI\SBIS LIS\LIS Updated\AnalyzerDriver\LIS PRO\ExiasDriver\ExiasDriver\bin\Debug\ExiasDriver.pdb
+E:\SBSI\SBIS LIS\LIS Updated\AnalyzerDriver\LIS PRO\ExiasDriver\ExiasDriver\bin\Debug\ExiasDriver.xml
+E:\SBSI\SBIS LIS\LIS Updated\AnalyzerDriver\LIS PRO\ExiasDriver\ExiasDriver\bin\Debug\DevExpress.Data.v19.1.dll
+E:\SBSI\SBIS LIS\LIS Updated\AnalyzerDriver\LIS PRO\ExiasDriver\ExiasDriver\bin\Debug\DevExpress.Printing.v19.1.Core.dll
+E:\SBSI\SBIS LIS\LIS Updated\AnalyzerDriver\LIS PRO\ExiasDriver\ExiasDriver\bin\Debug\DevExpress.Sparkline.v19.1.Core.dll
+E:\SBSI\SBIS LIS\LIS Updated\AnalyzerDriver\LIS PRO\ExiasDriver\ExiasDriver\bin\Debug\DevExpress.Utils.v19.1.dll
+E:\SBSI\SBIS LIS\LIS Updated\AnalyzerDriver\LIS PRO\ExiasDriver\ExiasDriver\bin\Debug\DevExpress.XtraEditors.v19.1.dll
+E:\SBSI\SBIS LIS\LIS Updated\AnalyzerDriver\LIS PRO\ExiasDriver\ExiasDriver\bin\Debug\E1394-91.dll
+E:\SBSI\SBIS LIS\LIS Updated\AnalyzerDriver\LIS PRO\ExiasDriver\ExiasDriver\bin\Debug\LIS01A2.dll
+E:\SBSI\SBIS LIS\LIS Updated\AnalyzerDriver\LIS PRO\ExiasDriver\ExiasDriver\bin\Debug\MySql.Data.dll
+E:\SBSI\SBIS LIS\LIS Updated\AnalyzerDriver\LIS PRO\ExiasDriver\ExiasDriver\bin\Debug\PortableSettingsProvider.dll
+E:\SBSI\SBIS LIS\LIS Updated\AnalyzerDriver\LIS PRO\ExiasDriver\ExiasDriver\bin\Debug\SimpleTCP.dll
+E:\SBSI\SBIS LIS\LIS Updated\AnalyzerDriver\LIS PRO\ExiasDriver\ExiasDriver\bin\Debug\slf4net.dll
+E:\SBSI\SBIS LIS\LIS Updated\AnalyzerDriver\LIS PRO\ExiasDriver\ExiasDriver\bin\Debug\TCPIPConnection.dll
+E:\SBSI\SBIS LIS\LIS Updated\AnalyzerDriver\LIS PRO\ExiasDriver\ExiasDriver\bin\Debug\DevExpress.Pdf.v19.1.Core.dll
+E:\SBSI\SBIS LIS\LIS Updated\AnalyzerDriver\LIS PRO\ExiasDriver\ExiasDriver\bin\Debug\DevExpress.Data.v19.1.xml
+E:\SBSI\SBIS LIS\LIS Updated\AnalyzerDriver\LIS PRO\ExiasDriver\ExiasDriver\bin\Debug\DevExpress.Printing.v19.1.Core.xml
+E:\SBSI\SBIS LIS\LIS Updated\AnalyzerDriver\LIS PRO\ExiasDriver\ExiasDriver\bin\Debug\DevExpress.Sparkline.v19.1.Core.xml
+E:\SBSI\SBIS LIS\LIS Updated\AnalyzerDriver\LIS PRO\ExiasDriver\ExiasDriver\bin\Debug\DevExpress.Utils.v19.1.xml
+E:\SBSI\SBIS LIS\LIS Updated\AnalyzerDriver\LIS PRO\ExiasDriver\ExiasDriver\bin\Debug\DevExpress.XtraEditors.v19.1.xml
+E:\SBSI\SBIS LIS\LIS Updated\AnalyzerDriver\LIS PRO\ExiasDriver\ExiasDriver\bin\Debug\E1394-91.pdb
+E:\SBSI\SBIS LIS\LIS Updated\AnalyzerDriver\LIS PRO\ExiasDriver\ExiasDriver\bin\Debug\LIS01A2.pdb
+E:\SBSI\SBIS LIS\LIS Updated\AnalyzerDriver\LIS PRO\ExiasDriver\ExiasDriver\bin\Debug\PortableSettingsProvider.xml
+E:\SBSI\SBIS LIS\LIS Updated\AnalyzerDriver\LIS PRO\ExiasDriver\ExiasDriver\bin\Debug\slf4net.pdb
+E:\SBSI\SBIS LIS\LIS Updated\AnalyzerDriver\LIS PRO\ExiasDriver\ExiasDriver\bin\Debug\slf4net.xml
+E:\SBSI\SBIS LIS\LIS Updated\AnalyzerDriver\LIS PRO\ExiasDriver\ExiasDriver\bin\Debug\TCPIPConnection.pdb
+E:\SBSI\SBIS LIS\LIS Updated\AnalyzerDriver\LIS PRO\ExiasDriver\ExiasDriver\bin\Debug\DevExpress.Pdf.v19.1.Core.xml
+E:\SBSI\SBIS LIS\LIS Updated\AnalyzerDriver\LIS PRO\ExiasDriver\ExiasDriver\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
+E:\SBSI\SBIS LIS\LIS Updated\AnalyzerDriver\LIS PRO\ExiasDriver\ExiasDriver\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
+E:\SBSI\SBIS LIS\LIS Updated\AnalyzerDriver\LIS PRO\ExiasDriver\ExiasDriver\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
+E:\SBSI\SBIS LIS\LIS Updated\AnalyzerDriver\LIS PRO\ExiasDriver\ExiasDriver\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
+E:\SBSI\SBIS LIS\LIS Updated\AnalyzerDriver\LIS PRO\ExiasDriver\ExiasDriver\bin\Debug\de\DevExpress.Printing.v19.1.Core.resources.dll
+E:\SBSI\SBIS LIS\LIS Updated\AnalyzerDriver\LIS PRO\ExiasDriver\ExiasDriver\bin\Debug\es\DevExpress.Printing.v19.1.Core.resources.dll
+E:\SBSI\SBIS LIS\LIS Updated\AnalyzerDriver\LIS PRO\ExiasDriver\ExiasDriver\bin\Debug\ja\DevExpress.Printing.v19.1.Core.resources.dll
+E:\SBSI\SBIS LIS\LIS Updated\AnalyzerDriver\LIS PRO\ExiasDriver\ExiasDriver\bin\Debug\ru\DevExpress.Printing.v19.1.Core.resources.dll
+E:\SBSI\SBIS LIS\LIS Updated\AnalyzerDriver\LIS PRO\ExiasDriver\ExiasDriver\bin\Debug\de\DevExpress.Sparkline.v19.1.Core.resources.dll
+E:\SBSI\SBIS LIS\LIS Updated\AnalyzerDriver\LIS PRO\ExiasDriver\ExiasDriver\bin\Debug\es\DevExpress.Sparkline.v19.1.Core.resources.dll
+E:\SBSI\SBIS LIS\LIS Updated\AnalyzerDriver\LIS PRO\ExiasDriver\ExiasDriver\bin\Debug\ja\DevExpress.Sparkline.v19.1.Core.resources.dll
+E:\SBSI\SBIS LIS\LIS Updated\AnalyzerDriver\LIS PRO\ExiasDriver\ExiasDriver\bin\Debug\ru\DevExpress.Sparkline.v19.1.Core.resources.dll
+E:\SBSI\SBIS LIS\LIS Updated\AnalyzerDriver\LIS PRO\ExiasDriver\ExiasDriver\bin\Debug\de\DevExpress.Utils.v19.1.resources.dll
+E:\SBSI\SBIS LIS\LIS Updated\AnalyzerDriver\LIS PRO\ExiasDriver\ExiasDriver\bin\Debug\es\DevExpress.Utils.v19.1.resources.dll
+E:\SBSI\SBIS LIS\LIS Updated\AnalyzerDriver\LIS PRO\ExiasDriver\ExiasDriver\bin\Debug\ja\DevExpress.Utils.v19.1.resources.dll
+E:\SBSI\SBIS LIS\LIS Updated\AnalyzerDriver\LIS PRO\ExiasDriver\ExiasDriver\bin\Debug\ru\DevExpress.Utils.v19.1.resources.dll
+E:\SBSI\SBIS LIS\LIS Updated\AnalyzerDriver\LIS PRO\ExiasDriver\ExiasDriver\bin\Debug\de\DevExpress.XtraEditors.v19.1.resources.dll
+E:\SBSI\SBIS LIS\LIS Updated\AnalyzerDriver\LIS PRO\ExiasDriver\ExiasDriver\bin\Debug\es\DevExpress.XtraEditors.v19.1.resources.dll
+E:\SBSI\SBIS LIS\LIS Updated\AnalyzerDriver\LIS PRO\ExiasDriver\ExiasDriver\bin\Debug\ja\DevExpress.XtraEditors.v19.1.resources.dll
+E:\SBSI\SBIS LIS\LIS Updated\AnalyzerDriver\LIS PRO\ExiasDriver\ExiasDriver\bin\Debug\ru\DevExpress.XtraEditors.v19.1.resources.dll
+E:\SBSI\SBIS LIS\LIS Updated\AnalyzerDriver\LIS PRO\ExiasDriver\ExiasDriver\bin\Debug\de\DevExpress.Pdf.v19.1.Core.resources.dll
+E:\SBSI\SBIS LIS\LIS Updated\AnalyzerDriver\LIS PRO\ExiasDriver\ExiasDriver\bin\Debug\es\DevExpress.Pdf.v19.1.Core.resources.dll
+E:\SBSI\SBIS LIS\LIS Updated\AnalyzerDriver\LIS PRO\ExiasDriver\ExiasDriver\bin\Debug\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+E:\SBSI\SBIS LIS\LIS Updated\AnalyzerDriver\LIS PRO\ExiasDriver\ExiasDriver\bin\Debug\ru\DevExpress.Pdf.v19.1.Core.resources.dll
+E:\SBSI\SBIS LIS\LIS Updated\AnalyzerDriver\LIS PRO\ExiasDriver\ExiasDriver\obj\Debug\ExiasDriver.frmLogin.resources
+E:\SBSI\SBIS LIS\LIS Updated\AnalyzerDriver\LIS PRO\ExiasDriver\ExiasDriver\obj\Debug\ExiasDriver.MainForm.resources
+E:\SBSI\SBIS LIS\LIS Updated\AnalyzerDriver\LIS PRO\ExiasDriver\ExiasDriver\obj\Debug\ExiasDriver.Resources.resources
+E:\SBSI\SBIS LIS\LIS Updated\AnalyzerDriver\LIS PRO\ExiasDriver\ExiasDriver\obj\Debug\ExiasDriver.vbproj.GenerateResource.Cache
+E:\SBSI\SBIS LIS\LIS Updated\AnalyzerDriver\LIS PRO\ExiasDriver\ExiasDriver\obj\Debug\ExiasDriver.exe.licenses
+E:\SBSI\SBIS LIS\LIS Updated\AnalyzerDriver\LIS PRO\ExiasDriver\ExiasDriver\obj\Debug\ExiasDriver.exe
+E:\SBSI\SBIS LIS\LIS Updated\AnalyzerDriver\LIS PRO\ExiasDriver\ExiasDriver\obj\Debug\ExiasDriver.xml
+E:\SBSI\SBIS LIS\LIS Updated\AnalyzerDriver\LIS PRO\ExiasDriver\ExiasDriver\obj\Debug\ExiasDriver.pdb
+E:\SBSI\SBIS LIS\LIS Updated\AnalyzerDriver\LIS PRO\ExiasDriver\ExiasDriver\obj\Debug\ExiasDriver.vbprojResolveAssemblyReference.cache
+E:\SBSI\SBIS LIS\LIS Updated\AnalyzerDriver\LIS PRO\ExiasDriver\ExiasDriver\bin\Debug\Tester.exe.config

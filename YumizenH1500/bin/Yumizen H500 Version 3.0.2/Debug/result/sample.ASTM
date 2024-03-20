@@ -1,0 +1,13 @@
+H|\^&|||e1-01269^EXIAS^e&F&1 Analyzer^2.00.04^1^01269||||||M^AUTO|P|LIS2-A2|20210419053659
+P|1||||JUAN DEA CRUZ|||U||||||||^cm|^kg||||||\||,
+O|1|000001|^^^^^SAMPLETUBE||||||||||||SER
+C|1|I||G
+R|1|^^^Na^^^M|142.6|mmol/L|135^145^reference\120^155^critical\^^QC_range|N||F|||20210419051502|20210419051536
+R|2|^^^K^^^M|4.53|mmol/L|3.5^5.1^reference\2.5^6.2^critical\^^QC_range|N||F|||20210419051502|20210419051536
+R|3|^^^Cl^^^M|106.2|mmol/L|98^107^reference\80^120^critical\^^QC_range|N||F|||20210419051502|20210419051536
+R|4|^^^Ca^^^M|1.19|mmol/L|1.12^1.32^reference\0.82^1.55^critical\^^QC_range|N||F|||20210419051502|20210419051536
+R|5|^^^pH^^^M|7.481||7.32^7.43^reference\7.2^7.6^critical\^^QC_range|H||F|||20210419051502|20210419051536
+R|6|^^^Hct^^^M||%|36^53^reference\20^60^critical\^^QC_range|A||F|||20210419051502|20210419051536
+C|1|I|Inadequate sample type (1741)^1741|I
+R|7|^^^MCHC^^^I||g/dL||||F|||20210419051502|20210419051536
+L|1|N
